@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG/LOTR_sample_world_01/locations/Middle Earth.md",
+                "file": "TECHNICAL/OBSIDIAN/Other people's obsidian.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TTRPG/LOTR_sample_world_01/locations/Middle Earth.md",
+                "file": "TECHNICAL/OBSIDIAN/Other people's obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TTRPG/LOTR_sample_world_01/locations/Middle Earth.md",
+                "file": "TECHNICAL/OBSIDIAN/Other people's obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TTRPG/LOTR_sample_world_01/locations/Middle Earth.md"
+                "file": "TECHNICAL/OBSIDIAN/Other people's obsidian.md"
               }
             }
           }
@@ -163,15 +163,15 @@
   },
   "active": "4ac45979df0ffdf0",
   "lastOpenFiles": [
+    "TECHNICAL/OBSIDIAN/Obsidian Stuff.md",
+    "TECHNICAL/OBSIDIAN/Other people's obsidian.md",
     "TTRPG/LOTR_sample_world_01/locations/Lothlorien.md",
+    "TTRPG/LOTR_sample_world_01/locations/Middle Earth.md",
+    "TTRPG/LOTR_sample_world_01/locations/The Shire.md",
     "TTRPG/LOTR_sample_world_01/management/Characters.md",
     "TTRPG/LOTR_sample_world_01/npc/Gandalf.md",
     "TTRPG/LOTR_sample_world_01/npc/Aragorn.md",
     "TTRPG/LOTR_sample_world_01/pc/Sam.md",
-    "TTRPG/LOTR_sample_world_01/pc/Frodo.md",
-    "TTRPG/LOTR_sample_world_01/locations/The Shire.md",
-    "TTRPG/LOTR_sample_world_01/locations/Middle Earth.md",
-    "MOVIES_BOOKS_ART/Books.md",
-    "TECHNICAL/GIT - Creating a personal access token.md"
+    "TTRPG/LOTR_sample_world_01/pc/Frodo.md"
   ]
 }
