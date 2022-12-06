@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3ffaf8f981fa3360",
+        "id": "9a9ae13c629d43f6",
         "type": "tabs",
         "children": [
           {
-            "id": "bd0aed88c44828b7",
+            "id": "e4b99e603ccf2270",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TECHNICAL/GIT - Creating a personal access token.md",
+                "file": "TTRPG/Mighty-Four-D&D-5e/Locations/Waterdeep.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#PartyMember",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TECHNICAL/GIT - Creating a personal access token.md",
+                "file": "TTRPG/Mighty-Four-D&D-5e/Locations/Waterdeep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TECHNICAL/GIT - Creating a personal access token.md",
+                "file": "TTRPG/Mighty-Four-D&D-5e/Locations/Waterdeep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,28 +125,29 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TECHNICAL/GIT - Creating a personal access token.md"
+                "file": "TTRPG/Mighty-Four-D&D-5e/Locations/Waterdeep.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "bd0aed88c44828b7",
+  "active": "e4b99e603ccf2270",
   "lastOpenFiles": [
-    "NON_TECHNICAL_WORK/ARTICLES/ARTICLE Where's the so what.md",
-    "NON_TECHNICAL_WORK/ARTICLES/ARTICLE Who’s Got the Monkey.md",
-    "MOVIES_BOOKS_ART/Books.md",
-    "TTRPG/LOTR_sample_world_01/locations/The Shire.md",
-    "TTRPG/LOTR_sample_world_01/locations/Lothlorien.md",
-    "TECHNICAL/GIT - Creating a personal access token.md",
+    "TTRPG/Mighty-Four-D&D-5e/Locations/University of Candlekeep.md",
+    "TTRPG/Mighty-Four-D&D-5e/PC/The Mighty Four.md",
+    "TTRPG/Mighty-Four-D&D-5e/PC/Zuck.md",
+    "TTRPG/Mighty-Four-D&D-5e/PC/Koto.md",
+    "TTRPG/Mighty-Four-D&D-5e/PC/Isoza.md",
+    "2022-12-06.md",
+    "TTRPG/Mighty-Four-D&D-5e/Sessions/S1-20221201 A rescue from the temple of Tyranthraxus.md",
     "TECHNICAL/GRAPH/The Practitioner's Guide to Graph Data - notes.md",
-    "NON_TECHNICAL_WORK/Favorite management articles.md",
-    "TECHNICAL/GRAPH/Pasted image 20221206151737.png",
-    "TECHNICAL/GRAPH/Pasted image 20221206152540.png.md"
+    "TECHNICAL/GIT - Creating a personal access token.md",
+    "NON_TECHNICAL_WORK/ARTICLES/ARTICLE Where's the so what.md"
   ]
 }

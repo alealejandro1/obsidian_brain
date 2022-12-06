@@ -38,7 +38,7 @@ Situation that led to their development:
 * ***Degree***: Number of edges that touch a vertex. Can be further split into In-Degree (in-going edges) and Out-Degree (outgoing edges)
 * ***Schema***: Described in terms of labels, it captures how vertices and edges are related. When discussing schema use "Vertex Label" and "Edge Label". Vertices and Edges are data.
 * ***Property***: Describes a feature of a vertex or edge, such as name or age.   
-* ***Cardinality**** : Number of elements in a set or collection
+* ***Cardinality*** : Number of elements in a set or collection
 * ***Set*** : Abstract data type that stores unique values (like set ( ) in python)
 * ***Collection***: Abstract data type that stores nonunique values (like a python list [] )
 
