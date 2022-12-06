@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG/Mighty-Four-D&D-5e/Locations/Waterdeep.md",
+                "file": "TTRPG/LOTR_sample_world_01/sessions/S02_20221206.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TTRPG/Mighty-Four-D&D-5e/Locations/Waterdeep.md",
+                "file": "TTRPG/LOTR_sample_world_01/sessions/S02_20221206.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TTRPG/Mighty-Four-D&D-5e/Locations/Waterdeep.md",
+                "file": "TTRPG/LOTR_sample_world_01/sessions/S02_20221206.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TTRPG/Mighty-Four-D&D-5e/Locations/Waterdeep.md"
+                "file": "TTRPG/LOTR_sample_world_01/sessions/S02_20221206.md"
               }
             }
           }
@@ -139,15 +139,15 @@
   },
   "active": "e4b99e603ccf2270",
   "lastOpenFiles": [
-    "TTRPG/Mighty-Four-D&D-5e/Locations/University of Candlekeep.md",
-    "TTRPG/Mighty-Four-D&D-5e/PC/The Mighty Four.md",
-    "TTRPG/Mighty-Four-D&D-5e/PC/Zuck.md",
-    "TTRPG/Mighty-Four-D&D-5e/PC/Koto.md",
-    "TTRPG/Mighty-Four-D&D-5e/PC/Isoza.md",
+    "TTRPG/LOTR_sample_world_01/sessions/S01_20221205.md",
+    "TTRPG/LOTR_sample_world_01/sessions/S02_20221206.md",
     "2022-12-06.md",
-    "TTRPG/Mighty-Four-D&D-5e/Sessions/S1-20221201 A rescue from the temple of Tyranthraxus.md",
-    "TECHNICAL/GRAPH/The Practitioner's Guide to Graph Data - notes.md",
     "TECHNICAL/GIT - Creating a personal access token.md",
-    "NON_TECHNICAL_WORK/ARTICLES/ARTICLE Where's the so what.md"
+    "TECHNICAL/OBSIDIAN/Other people's obsidian.md",
+    "TECHNICAL/OBSIDIAN/Obsidian Stuff.md",
+    "TECHNICAL/GRAPH/The Practitioner's Guide to Graph Data - notes.md",
+    "NON_TECHNICAL_WORK/Talking for a living.md",
+    "NON_TECHNICAL_WORK/Favorite management articles.md",
+    "NON_TECHNICAL_WORK/ARTICLES/ARTICLE Who’s Got the Monkey.md"
   ]
 }
