@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TECHNICAL/GRAPH/GraphDB crash-course.md",
+                "file": "MOVIES_BOOKS_ART/Books.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TECHNICAL/GRAPH/GraphDB crash-course.md",
+                "file": "MOVIES_BOOKS_ART/Books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TECHNICAL/GRAPH/GraphDB crash-course.md",
+                "file": "MOVIES_BOOKS_ART/Books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TECHNICAL/GRAPH/GraphDB crash-course.md"
+                "file": "MOVIES_BOOKS_ART/Books.md"
               }
             }
           }
@@ -151,15 +151,15 @@
   },
   "active": "e60414caa1961729",
   "lastOpenFiles": [
+    "TECHNICAL/GIT - Creating a personal access token.md",
+    "TECHNICAL/OBSIDIAN/Other people's obsidian.md",
+    "TECHNICAL/OBSIDIAN/Obsidian Stuff.md",
     "TECHNICAL/GRAPH/The Practitioner's Guide to Graph Data - notes.md",
+    "TECHNICAL/GRAPH/GraphDB crash-course.md",
+    "NON_TECHNICAL_WORK/Talking for a living.md",
+    "NON_TECHNICAL_WORK/Favorite management articles.md",
+    "MOVIES_BOOKS_ART/Books.md",
     "TTRPG/LOTR_sample_world_01/sessions/LOTR_S02_20221206.md",
-    "TTRPG/LOTR_sample_world_01/sessions/LOTR_S01_20221205.md",
-    "TTRPG/LOTR_sample_world_01/npc/Gandalf.md",
-    "TTRPG/LOTR_sample_world_01/npc/Aragorn.md",
-    "TTRPG/LOTR_sample_world_01/pc/Sam.md",
-    "TTRPG/LOTR_sample_world_01/pc/Frodo.md",
-    "TTRPG/LOTR_sample_world_01/Ideas.md",
-    "2022-12-06.md",
-    "TECHNICAL/GIT - Creating a personal access token.md"
+    "TTRPG/LOTR_sample_world_01/sessions/LOTR_S01_20221205.md"
   ]
 }
