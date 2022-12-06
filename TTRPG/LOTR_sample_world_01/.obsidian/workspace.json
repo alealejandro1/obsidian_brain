@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "032e01712ccf2eb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "58ea6d31b41c11b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f4cd0ce19c48eab",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "1aaab5fee2a3f5e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc73c52924682466",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pc/Frodo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5a9aa610fcc64d18",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba6e74ad0d5748ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bd69984cb6481e3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "64e97ea004de9178",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e0bead2c3255cfee",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aa1aed0319979a33",
+    "type": "split",
+    "children": [
+      {
+        "id": "125af78ab8be62a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aab30faafc103ef2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ff60e938621d1097",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9fd68174c7e50b65",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cdded68b092b5ad7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8f4cd0ce19c48eab",
+  "lastOpenFiles": [
+    "sessions/S02_20221206.md",
+    "sessions/S01_20221205.md",
+    "locations/Lothlorien.md",
+    "locations/The Shire.md",
+    "npc/Gandalf.md",
+    "pc/Sam.md",
+    "pc/Frodo.md",
+    "Ideas.md"
+  ]
+}

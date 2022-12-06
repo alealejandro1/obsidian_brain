@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "a1ac10483344e0e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "f22177d9da015d6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dff142c52a9dd358",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NON_TECHNICAL_WORK/Talking for a living.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7ad4eb1a170a7ea3",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee75249c02439a94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aef0ec7564cd9b75",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e6e61f52fe923b62",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ccd7d8ffe550b5b0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cb54298f2a66163a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3fc93496ca248ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c0454608215e882",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "NON_TECHNICAL_WORK/Talking for a living.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "25ebd5a46b0fe1fb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "NON_TECHNICAL_WORK/Talking for a living.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "54c71b9e7f58b913",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9755e39b862e2eb4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "NON_TECHNICAL_WORK/Talking for a living.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "dff142c52a9dd358",
+  "lastOpenFiles": [
+    "NON_TECHNICAL_WORK/Favorite management articles.md",
+    "OBSIDIAN/Obsidian Stuff.md",
+    "NON_TECHNICAL_WORK/Talking for a living.md"
+  ]
+}

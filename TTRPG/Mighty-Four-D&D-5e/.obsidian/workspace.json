@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "6045a5f312445a58",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3f1d8123a002dff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fb07d0c2079b83c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Stuff.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ccf27d39bd108d33",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e13f7600f8c3713",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fca4f50ea936fd9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "933ce5e4cbaa0921",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Episode",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8447f6a4a0ae5cc9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d3e4b6c206374ae2",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ac20e54bf950aee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3acd740d07145993",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian Stuff.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a6af027567e91dab",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian Stuff.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "81655ef3da38690f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c4b84fc07aa41d43",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian Stuff.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "81655ef3da38690f",
+  "lastOpenFiles": [
+    "Obsidian Stuff.md",
+    "Sessions/S1-20221201 A rescue from the temple of Tyranthraxus.md",
+    "NPC/Anwyn.md",
+    "PC/Koto.md",
+    "PC/Isoza.md",
+    "NPC/Mainara.md",
+    "Embed files.md",
+    "Internal link.md",
+    "Locations/Waterdeep.md",
+    "Locations/University of Candlekeep.md"
+  ]
+}
