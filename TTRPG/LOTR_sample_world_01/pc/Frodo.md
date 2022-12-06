@@ -1,7 +1,6 @@
-Hobbit, born on 123
-Height 1.3m 
-Non-fighter
-#PC
+notetype::#PC
+name:: Frodo
+race:: Hobbit
 
 
 
