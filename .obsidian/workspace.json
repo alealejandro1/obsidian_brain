@@ -47,12 +47,52 @@
             "id": "bb2e0cf545a7a950",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "TTRPG/LOTR_sample_world_01/sessions/LOTR_S02_20221206.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "78535de8dd6dfe07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MOVIES_BOOKS_ART/Books.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "614be71d61a8c4af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MOVIES_BOOKS_ART/Books.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "177fb0237d4d0ff8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MOVIES_BOOKS_ART/Book Lists.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -118,6 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MOVIES_BOOKS_ART/Book Lists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "MOVIES_BOOKS_ART/Book Lists.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +197,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "MOVIES_BOOKS_ART/Book Lists.md"
+              }
             }
           }
         ],
@@ -163,19 +207,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "bb2e0cf545a7a950",
+  "active": "177fb0237d4d0ff8",
   "lastOpenFiles": [
-    "TTRPG/LOTR_sample_world_01/sessions/LOTR_S02_20221206.md",
-    "TTRPG/LOTR_sample_world_01/npc/Potato.md",
-    "TTRPG/LOTR_sample_world_01/npc/Arwen.md",
-    "TTRPG/LOTR_sample_world_01/pc/Frodo.md",
-    "TTRPG/LOTR_sample_world_01/sessions/LOTR_S01_20221205.md",
+    "TTRPG/LOTR_sample_world_01/management/Characters.md",
+    "TTRPG/LOTR_sample_world_01/pc/Sam.md",
+    "MOVIES_BOOKS_ART/Book Lists.md",
+    "MOVIES_BOOKS_ART/Close to the machine.md",
+    "MOVIES_BOOKS_ART/Books.md",
+    "TECHNICAL/GIT - Creating a personal access token.md",
     "TECHNICAL/GRAPH/The Practitioner's Guide to Graph Data - notes.md",
-    "TECHNICAL/GRAPH/attachments/Pasted image 20221207104200.png",
-    "TECHNICAL/GRAPH/attachments/Pasted image 20221206160235.png",
-    "TECHNICAL/GRAPH/attachments/Pasted image 20221206160152.png",
-    "TECHNICAL/GRAPH/GraphDB crash-course.md"
+    "TTRPG/Mighty-Four-D&D-5e/PC/Koto.md",
+    "TTRPG/Mighty-Four-D&D-5e/Sessions/S1-20221201 A rescue from the temple of Tyranthraxus.md",
+    "TTRPG/LOTR_sample_world_01/npc/Aragorn.md"
   ]
 }

@@ -1,10 +1,10 @@
 {
   "collapse-filter": false,
-  "search": "path:",
-  "showTags": false,
+  "search": "tag:#mightyFourSession",
+  "showTags": true,
   "showAttachments": false,
-  "hideUnresolved": false,
-  "showOrphans": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
