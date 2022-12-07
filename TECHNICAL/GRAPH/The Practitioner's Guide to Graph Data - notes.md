@@ -77,5 +77,14 @@ Data modelling is easier in graph, but at this point relational is very mature. 
 * Hierarchical Data represents concepts that naturally organize into a nested structure of dependencies.
 
 Examples of Hierarchical Data:
-* **Bill of Materials**: Boeing 737 contains [Right Wing, Left Wing], Right Wing contains : [Turbine Engine 1, ...] 
-	* 
+* **Bill of Materials**: Boeing 737 contains [Right Wing, Left Wing], Right Wing contains : [Turbine Engine 1, ...]  .. contains [screw 435, screw 436,..]
+	* Potential query: How many screws in a Boeing 737?
+* **Git version control Data**: A branch contains a number of commits. Each commit contains a Tree, each Tree contains File. The newer commit always is connected to the previous commit.
+
+### Differing from neighborhoods, trees have their own concepts:
+* ***Tree*** : A connected graph with no ***cycles***. Every vertex has only one edge pointing to it. >> this doesn't mean that only one edge can come out of a vertex. Think of family tree or corporate tree.
+* ***Parent Vertex***: One step higher in the hierarchy. 
+* ***Child Vertex***: One step below a parent in the hierarchy.
+* ***Root***: The topmost parent vertex. The beggining of the dependency chain within a hierarchy.
+* ***Leaf***: The last child vertex within a hierarchy. Leaf has degree of one.
+* ***Depth***: In a hierarchy, depth is the distance of any vertex to its root.
