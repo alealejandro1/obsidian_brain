@@ -96,9 +96,15 @@ Examples of Hierarchical Data:
 ### Power Company: Hierarchical example
 
 Sensors monitor homes and communicate with other sensors > Towers monitor sensors > Network of Towers controls all.
-Note that is important to have communication redundancy in case a sensor or tower goes down. This means that the hierarchical structures are dyanmic and changing as towers and sensors go down/up.
+
+Note that is important to have communication redundancy in case a sensor or tower goes down. This means that the hierarchical structures are dyanmic and changing as towers and sensors go down/up. Note that the number of vertices is fixed, but the number of edges changes dynamically.
 
 ![[Pasted image 20221207104200.png]]
 Because sensors connect to sensors, there can be cycles in this hierarchy. 
 
 The book goes on to explain the intricacies of looking for paths using Gremlin.
+
+### Considering time in the sensor data
+
+Now we can consider that communication takes place in timesteps. So at timestep =0 something happens, at timestep =1 something else happens. The image below showcases this:
+![[Pasted image 20221207111403.png]]
