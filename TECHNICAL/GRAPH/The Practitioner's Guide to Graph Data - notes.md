@@ -90,12 +90,15 @@ Examples of Hierarchical Data:
 * ***Depth***: In a hierarchy, depth is the distance of any vertex to its root.
 * ***Walk***: Sequence of visited vertices and edges, elements of which can be repeated.
 *  ***Path***: Sequence of visited vertices and edges, elements of which cannot be repeated.
-* ***Cycle***: A path where the ending and starting vertex are the same
+* ***Cycle***: A path a where the ending and starting vertex are the same. Multiple edges.
+* ***Loop***: Is an edge that starts and ends at the same vertex. One edge.
 
 ### Power Company: Hierarchical example
 
 Sensors monitor homes and communicate with other sensors > Towers monitor sensors > Network of Towers controls all.
-Note that is important to have communication redundancy in case a sensor or tower goes down. 
+Note that is important to have communication redundancy in case a sensor or tower goes down. This means that the hierarchical structures are dyanmic and changing as towers and sensors go down/up.
 
 ![[Pasted image 20221207104200.png]]
+Because sensors connect to sensors, there can be cycles in this hierarchy. 
 
+The book goes on to explain the intricacies of looking for paths using Gremlin.
