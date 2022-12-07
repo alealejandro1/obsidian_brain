@@ -1,3 +1,8 @@
+article_title:: Management Time: Who’s Got the Monkey?
+year_posted::1974
+url::https://hbr.org/archive-toc/3996
+my_rating::5
+
 # Management Time: Who’s Got the Monkey?
 
 by 

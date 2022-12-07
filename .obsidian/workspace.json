@@ -13,13 +13,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOVIES_BOOKS_ART/Book Lists.md",
+                "file": "TECHNICAL/OBSIDIAN/Templates/Book Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c9d98b5d5ffae3fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TECHNICAL/OBSIDIAN/Other people's obsidian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b345da3b33b8f966",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TTRPG/LOTR_sample_world_01/management/Characters.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "285769abf4f1ec19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MOVIES_BOOKS_ART/Book Dataview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35c45dbf1cf534a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MOVIES_BOOKS_ART/Books/Work Clean.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOVIES_BOOKS_ART/Book Lists.md",
+                "file": "TTRPG/LOTR_sample_world_01/management/Characters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOVIES_BOOKS_ART/Book Lists.md",
+                "file": "TTRPG/LOTR_sample_world_01/management/Characters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOVIES_BOOKS_ART/Book Lists.md"
+                "file": "TTRPG/LOTR_sample_world_01/management/Characters.md"
               }
             }
           }
@@ -137,17 +186,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "50b7f5a4c240a1b5",
+  "active": "b345da3b33b8f966",
   "lastOpenFiles": [
-    "MOVIES_BOOKS_ART/Books/The Alignment Problem.md",
-    "MOVIES_BOOKS_ART/Books.md",
-    "MOVIES_BOOKS_ART/Book Lists.md",
-    "TTRPG/LOTR_sample_world_01/npc/Aragorn.md",
-    "TTRPG/LOTR_sample_world_01/sessions/LOTR_S02_20221206.md",
+    "TECHNICAL/GIT - Creating a personal access token.md",
+    "NON_TECHNICAL_WORK/Talking for a living.md",
+    "NON_TECHNICAL_WORK/Articles Dataview.md",
+    "MOVIES_BOOKS_ART/Book Dataview.md",
     "MOVIES_BOOKS_ART/Books/Close to the machine.md",
-    "NON_TECHNICAL_WORK/Favorite management articles.md",
-    "TECHNICAL/OBSIDIAN/Templates/Book Template.md",
-    "MOVIES_BOOKS_ART/Book X.md",
-    "TECHNICAL/GRAPH/GraphDB crash-course.md"
+    "MOVIES_BOOKS_ART/Books/Work Clean.md",
+    "TECHNICAL/OBSIDIAN/Dataview guide.md",
+    "TECHNICAL/OBSIDIAN/Other people's obsidian.md",
+    "TECHNICAL/OBSIDIAN/Obsidian Stuff.md",
+    "MOVIES_BOOKS_ART/Books/The Alignment Problem.md"
   ]
 }

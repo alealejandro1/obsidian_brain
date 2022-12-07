@@ -1,0 +1,1 @@
+What are the possible expressions on a WHERE condition?

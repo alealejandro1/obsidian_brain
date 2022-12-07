@@ -1,3 +1,8 @@
+article_title:: Where's the so what
+year_posted::2013
+url::https://medium.com/@ameet?source=post_page-----5cbac7d7d5ca--------------------------------
+my_rating::4.5
+
 [Ameet Ranadive](https://medium.com/@ameet?source=post_page-----5cbac7d7d5ca--------------------------------)
 
 Aug 17, 2013

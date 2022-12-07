@@ -5,3 +5,4 @@ good_about_book:: Snapshot of late 90s database system integrators, Mixes comple
 bad_about_book::Whole sub-plot involving her family wasn't very interesting or relevant
 my_score::3.5
 keywords:: 90s, databases, retro deep tech
+reminded_me_of:: 
