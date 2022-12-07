@@ -88,5 +88,14 @@ Examples of Hierarchical Data:
 * ***Root***: The topmost parent vertex. The beggining of the dependency chain within a hierarchy.
 * ***Leaf***: The last child vertex within a hierarchy. Leaf has degree of one.
 * ***Depth***: In a hierarchy, depth is the distance of any vertex to its root.
-* ***Walk***: Sequence of visited vertices and edges, can be repeated.
-*  ***Path***: Sequence of visited vertices and edges, cannot be repeated.
+* ***Walk***: Sequence of visited vertices and edges, elements of which can be repeated.
+*  ***Path***: Sequence of visited vertices and edges, elements of which cannot be repeated.
+* ***Cycle***: A path where the ending and starting vertex are the same
+
+### Power Company: Hierarchical example
+
+Sensors monitor homes and communicate with other sensors > Towers monitor sensors > Network of Towers controls all.
+Note that is important to have communication redundancy in case a sensor or tower goes down. 
+
+![[Pasted image 20221207104200.png]]
+
