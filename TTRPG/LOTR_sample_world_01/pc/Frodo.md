@@ -1,6 +1,7 @@
 notetype::#PC
 name:: Frodo
 race:: Hobbit
+status::Alive
 
 
 

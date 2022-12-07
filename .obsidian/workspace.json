@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TECHNICAL/OBSIDIAN/Other people's obsidian.md",
+                "file": "TTRPG/LOTR_sample_world_01/npc/Aragorn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb2e0cf545a7a950",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TTRPG/LOTR_sample_world_01/locations/Middle Earth.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TECHNICAL/OBSIDIAN/Other people's obsidian.md",
+                "file": "TTRPG/LOTR_sample_world_01/locations/Middle Earth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TECHNICAL/OBSIDIAN/Other people's obsidian.md",
+                "file": "TTRPG/LOTR_sample_world_01/locations/Middle Earth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,28 +162,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TECHNICAL/OBSIDIAN/Other people's obsidian.md"
+                "file": "TTRPG/LOTR_sample_world_01/locations/Middle Earth.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "4ac45979df0ffdf0",
+  "active": "bb2e0cf545a7a950",
   "lastOpenFiles": [
-    "TECHNICAL/OBSIDIAN/Obsidian Stuff.md",
-    "TECHNICAL/OBSIDIAN/Other people's obsidian.md",
-    "TTRPG/LOTR_sample_world_01/locations/Lothlorien.md",
-    "TTRPG/LOTR_sample_world_01/locations/Middle Earth.md",
     "TTRPG/LOTR_sample_world_01/locations/The Shire.md",
     "TTRPG/LOTR_sample_world_01/management/Characters.md",
-    "TTRPG/LOTR_sample_world_01/npc/Gandalf.md",
     "TTRPG/LOTR_sample_world_01/npc/Aragorn.md",
+    "TTRPG/LOTR_sample_world_01/npc/Gandalf.md",
+    "TTRPG/LOTR_sample_world_01/npc/Potato.md",
+    "TTRPG/LOTR_sample_world_01/pc/Frodo.md",
     "TTRPG/LOTR_sample_world_01/pc/Sam.md",
-    "TTRPG/LOTR_sample_world_01/pc/Frodo.md"
+    "TTRPG/LOTR_sample_world_01/locations/Lothlorien.md",
+    "TTRPG/LOTR_sample_world_01/locations/Middle Earth.md",
+    "TECHNICAL/GRAPH/The Practitioner's Guide to Graph Data - notes.md"
   ]
 }

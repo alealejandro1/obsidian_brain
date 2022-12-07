@@ -43,7 +43,7 @@ Situation that led to their development:
 * ***Collection***: Abstract data type that stores nonunique values (like a python list [] )
 
 
-### Graph Use Case: Customer 360
+## Graph Use Case: Customer 360
 Goal: There is a central object (a customer) and then there are many pieces of data coming from different business domains that say something about the customer. Payment details, demographic, past purchases, address, etc..
 
 Relational Implementation
@@ -54,7 +54,7 @@ The graph query to only get certain pieces of information is harder than getting
 
 Data modelling is easier in graph, but at this point relational is very mature. Not a clear win for graph. Querying is significantly easier with graph. If the data is not complex enough, graph might not be better than relational. Use relational if just want to get a view of 360.
 
-### Exploring Neighborhoods in Development
+## Exploring Neighborhoods in Development
 
 	Rule of Thumb#1 : If you want to start your traversal on some piece of data, make that data a vertex
 	Rule of Thumb#2 : If you need the data to connect concepts, make that data an edge
