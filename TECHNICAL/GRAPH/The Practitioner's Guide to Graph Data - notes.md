@@ -66,3 +66,16 @@ Data modelling is easier in graph, but at this point relational is very mature. 
 	Pitfall #2: Using the word *id* as a property > replace with vertex information such as *customer_id*.
 	Pitfall #3: Inconsistent use of casing > use *CamelCase* for vertex labels and *snake_case* for edge labels and property keys.
 
+## Exploring Neighborhoods in Production
+
+	Rule of Thumb #7 : Properties such as timestamps can be duplicated onto edges and vertices. This is to reduce the number of elements to process in a query (by creating duplicated information). For example on bank transfers you can have the date of transfer on the edge connected to an account vertex and on the vertex for the specific transaction.
+	Denormalization  : Improving read performance of a database at the expense of losing write performance, by adding redundant copies of data grouped differently.
+	Rule of Thumb #8 : Let the direction you want to walk/traverse your edge labels determine the key indeces you need on edge labels in your graph schema. -> know what queries you want to do before you create the graph!
+	Rule of Thumb #10: Keep only the edges and indexes you need for your production queries.
+
+## Using Trees in Development : Hierarchical Data
+* Hierarchical Data represents concepts that naturally organize into a nested structure of dependencies.
+
+Examples of Hierarchical Data:
+* **Bill of Materials**: Boeing 737 contains [Right Wing, Left Wing], Right Wing contains : [Turbine Engine 1, ...] 
+	* 
