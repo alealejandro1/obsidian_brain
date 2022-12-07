@@ -2,18 +2,6 @@ TO REFACTOR
 
 # *Fiction Books I've read*
 
-## Close to the Machine
-by Ellen Ulmman
-Read in 2021
-
-### Good:
-Snapshot of late 90s database system integrators
-Mixes complex life with growing out of technical role into manager path
-
-### Bad:
-Whole sub-plot involving her family wasn't very interesting or relevant
-
-
 
 
 ---

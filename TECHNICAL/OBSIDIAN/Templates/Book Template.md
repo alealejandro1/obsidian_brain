@@ -1,5 +1,7 @@
-type_book:: Book
-book_title::Book X
+type_book:: 
+book_title::
 read_when::
 good_about_book:: 
 bad_about_book::
+my_score::
+keywords:: 
