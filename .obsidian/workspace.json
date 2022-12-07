@@ -47,12 +47,8 @@
             "id": "bb2e0cf545a7a950",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TECHNICAL/GRAPH/The Practitioner's Guide to Graph Data - notes.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -122,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TECHNICAL/GRAPH/The Practitioner's Guide to Graph Data - notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TECHNICAL/GRAPH/The Practitioner's Guide to Graph Data - notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "TECHNICAL/GRAPH/The Practitioner's Guide to Graph Data - notes.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -175,15 +167,15 @@
   },
   "active": "bb2e0cf545a7a950",
   "lastOpenFiles": [
-    "TECHNICAL/GRAPH/attachments/Pasted image 20221207104200.png",
+    "TTRPG/LOTR_sample_world_01/sessions/LOTR_S02_20221206.md",
+    "TTRPG/LOTR_sample_world_01/npc/Potato.md",
+    "TTRPG/LOTR_sample_world_01/npc/Arwen.md",
+    "TTRPG/LOTR_sample_world_01/pc/Frodo.md",
+    "TTRPG/LOTR_sample_world_01/sessions/LOTR_S01_20221205.md",
     "TECHNICAL/GRAPH/The Practitioner's Guide to Graph Data - notes.md",
+    "TECHNICAL/GRAPH/attachments/Pasted image 20221207104200.png",
     "TECHNICAL/GRAPH/attachments/Pasted image 20221206160235.png",
     "TECHNICAL/GRAPH/attachments/Pasted image 20221206160152.png",
-    "TECHNICAL/GRAPH/GraphDB crash-course.md",
-    "TTRPG/LOTR_sample_world_01/locations/Middle Earth.md",
-    "TTRPG/LOTR_sample_world_01/locations/The Shire.md",
-    "TTRPG/LOTR_sample_world_01/management/Characters.md",
-    "TTRPG/LOTR_sample_world_01/npc/Aragorn.md",
-    "TTRPG/LOTR_sample_world_01/npc/Gandalf.md"
+    "TECHNICAL/GRAPH/GraphDB crash-course.md"
   ]
 }
