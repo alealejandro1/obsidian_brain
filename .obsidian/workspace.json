@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG/LOTR_sample/locations/Lothlorien.md",
+                "file": "TTRPG/LOTR_sample/management/Characters.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TECHNICAL/OBSIDIAN/Templates/TTRPG_asset Template.md",
+                "file": "TTRPG/LOTR_sample/locations/The Shire.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TTRPG/LOTR_sample/locations/Lothlorien.md",
+                "file": "TTRPG/LOTR_sample/management/Characters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TTRPG/LOTR_sample/locations/Lothlorien.md",
+                "file": "TTRPG/LOTR_sample/management/Characters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TTRPG/LOTR_sample/locations/Lothlorien.md"
+                "file": "TTRPG/LOTR_sample/management/Characters.md"
               }
             }
           },
@@ -173,14 +173,14 @@
   "active": "0ab3ba5eb32ce79b",
   "lastOpenFiles": [
     "TTRPG/LOTR_sample/management/Table of monsters.md",
+    "TTRPG/LOTR_sample/npc/Arwen.md",
+    "TTRPG/LOTR_sample/npc/Aragorn.md",
+    "TECHNICAL/OBSIDIAN/Templates/TTRPG_asset Template.md",
+    "TTRPG/LOTR_sample/locations/The Shire.md",
+    "TTRPG/LOTR_sample/locations/Lothlorien.md",
     "TTRPG/LOTR_sample/management/Characters.md",
     "TTRPG/LOTR_sample/locations/Middle Earth.md",
-    "TTRPG/LOTR_sample/locations/Lothlorien.md",
-    "TTRPG/LOTR_sample/locations/The Shire.md",
-    "TECHNICAL/OBSIDIAN/Templates/TTRPG_asset Template.md",
     "MOVIES_BOOKS_ART/Book Dataview.md",
-    "TECHNICAL/OBSIDIAN/Dataview guide.md",
-    "NON_TECHNICAL_WORK/Articles Dataview.md",
-    "MOVIES_BOOKS_ART/Books/Work Clean.md"
+    "TECHNICAL/OBSIDIAN/Dataview guide.md"
   ]
 }

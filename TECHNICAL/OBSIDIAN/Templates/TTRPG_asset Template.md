@@ -2,6 +2,7 @@ asset_family::TTRPG_asset
 asset_type:: 
 name::
 race::
+gender::
 class::
 world::
 location::

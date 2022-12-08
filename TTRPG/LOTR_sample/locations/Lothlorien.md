@@ -2,6 +2,7 @@ asset_family::TTRPG_asset
 asset_type:: City
 name::Lothlorien
 race::
+gender::
 class::
 world:: Middle Earth
 location::
