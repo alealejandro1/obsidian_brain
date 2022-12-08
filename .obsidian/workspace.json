@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG/LOTR_sample/management/Table of monsters.md",
+                "file": "MOVIES_BOOKS_ART/Books/Close to the machine.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TTRPG/LOTR_sample/management/Table of monsters.md",
+                "file": "MOVIES_BOOKS_ART/Books/Close to the machine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TTRPG/LOTR_sample/management/Table of monsters.md",
+                "file": "MOVIES_BOOKS_ART/Books/Close to the machine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TTRPG/LOTR_sample/management/Table of monsters.md"
+                "file": "MOVIES_BOOKS_ART/Books/Close to the machine.md"
               }
             }
           },
@@ -160,15 +160,15 @@
   },
   "active": "83ff94a28b3bf3f7",
   "lastOpenFiles": [
-    "TTRPG/LOTR_sample/management/Characters.md",
-    "TTRPG/LOTR_sample/npc/Potato.md",
-    "TTRPG/LOTR_sample/npc/Gandalf.md",
-    "TTRPG/LOTR_sample/npc/Arwen.md",
-    "TECHNICAL/OBSIDIAN/Templates/TTRPG_asset Template.md",
-    "TTRPG/LOTR_sample/npc/Aragorn.md",
-    "TTRPG/LOTR_sample/locations/The Shire.md",
-    "TTRPG/LOTR_sample/management/Table of monsters.md",
-    "TTRPG/LOTR_sample/locations/Lothlorien.md",
-    "TTRPG/LOTR_sample/locations/Middle Earth.md"
+    "MOVIES_BOOKS_ART/Books/The Alignment Problem.md",
+    "MOVIES_BOOKS_ART/Books/Work Clean.md",
+    "MOVIES_BOOKS_ART/Book Dataview.md",
+    "NON_TECHNICAL_WORK/ARTICLES/Where's the so what.md",
+    "NON_TECHNICAL_WORK/ARTICLES/Who’s Got the Monkey.md",
+    "NON_TECHNICAL_WORK/Articles Dataview.md",
+    "NON_TECHNICAL_WORK/Talking for a living.md",
+    "TTRPG/Resources/TTRPG Notes & Articles Dataview.md",
+    "TTRPG/Resources/Notes & Articles/Brain Attic.md",
+    "TECHNICAL/OBSIDIAN/Templates/Article Template.md"
   ]
 }
