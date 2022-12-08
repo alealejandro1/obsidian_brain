@@ -126,4 +126,17 @@ Timesteps mean that not all walks are valid walks, because they need to be consi
 
 Business challenge to address regarding timeseries and power towers:
 * If Tower X should fail, what sensors, if any, would we lose connection to?
-	* Report: All 
+This can be unpacked as:
+	* Query: All sensors connected to tower X
+	* Query: For all those sensors, which towers they connected with?
+This can be reframed as:
+	* Get a list of sensors that connected with Tower X in any timewindow
+	* For each sensor, query the network to see if they used a different tower in that timewindow
+
+Ideal output is:
+{
+"sensor123":[Tower X, Tower Y, Tower Z],
+"sensor124":[Tower X, Tower W]
+"sensor 125":[Tower X]
+}
+Therefore, sensor 125 is at risk if Tower X fails.
