@@ -8,7 +8,7 @@ world:: Middle-Earth
 location:: 
 authority:: 
 description:: Strong human with the traits of a commander and a ranger
-status::
+status::Alive
 hit_points:: 10
 possessions:: pipe
 

@@ -8,7 +8,7 @@ world:: Middle Earth
 location::
 authority::
 description:: An elf, daughter of [[Elrond]]
-status::
+status::Alive
 hit_points:: 10
 possessions:: Elven Rings
 
