@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG/LOTR_sample_world_01/management/Characters.md",
+                "file": "TECHNICAL/GRAPH/The Practitioner's Guide to Graph Data - notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TTRPG/LOTR_sample_world_01/management/Characters.md",
+                "file": "TECHNICAL/GRAPH/The Practitioner's Guide to Graph Data - notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TTRPG/LOTR_sample_world_01/management/Characters.md",
+                "file": "TECHNICAL/GRAPH/The Practitioner's Guide to Graph Data - notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TTRPG/LOTR_sample_world_01/management/Characters.md"
+                "file": "TECHNICAL/GRAPH/The Practitioner's Guide to Graph Data - notes.md"
               }
             }
           }
@@ -188,15 +188,15 @@
   },
   "active": "b345da3b33b8f966",
   "lastOpenFiles": [
-    "TECHNICAL/GIT - Creating a personal access token.md",
-    "NON_TECHNICAL_WORK/Talking for a living.md",
-    "NON_TECHNICAL_WORK/Articles Dataview.md",
-    "MOVIES_BOOKS_ART/Book Dataview.md",
-    "MOVIES_BOOKS_ART/Books/Close to the machine.md",
-    "MOVIES_BOOKS_ART/Books/Work Clean.md",
-    "TECHNICAL/OBSIDIAN/Dataview guide.md",
     "TECHNICAL/OBSIDIAN/Other people's obsidian.md",
-    "TECHNICAL/OBSIDIAN/Obsidian Stuff.md",
-    "MOVIES_BOOKS_ART/Books/The Alignment Problem.md"
+    "TECHNICAL/OBSIDIAN/Dataview guide.md",
+    "TECHNICAL/OBSIDIAN/Templates/Book Template.md",
+    "MOVIES_BOOKS_ART/Book Dataview.md",
+    "NON_TECHNICAL_WORK/Articles Dataview.md",
+    "NON_TECHNICAL_WORK/Talking for a living.md",
+    "NON_TECHNICAL_WORK/ARTICLES/Who’s Got the Monkey.md",
+    "NON_TECHNICAL_WORK/ARTICLES/Where's the so what.md",
+    "TECHNICAL/OBSIDIAN/Templates/Article Template.md",
+    "TECHNICAL/GRAPH/The Practitioner's Guide to Graph Data - notes.md"
   ]
 }

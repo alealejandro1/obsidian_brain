@@ -1,3 +1,12 @@
+type_book:: Non-Fiction
+book_title::The Practitioner's Guide to Graph Data
+read_when::2022
+good_about_book:: Graph introduction, describe business cases suitable for graphs, comparisons with RDBMS
+bad_about_book:: Focused on Gremlin and Cassandra
+my_score::3.5
+keywords:: Graph, Graph Database, Gremlin, Complex Problems
+reminded_me_of::
+
 ![[Pasted image 20221206160235.png]]
 Bought book out of pocket in Nov 2022 after completing the AWS Build Lab using AWS Neptune within GCC.
 
