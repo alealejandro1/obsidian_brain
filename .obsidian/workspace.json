@@ -128,6 +128,14 @@
                 "file": "MOVIES_BOOKS_ART/Book Dataview.md"
               }
             }
+          },
+          {
+            "id": "e590c1197c9341bb",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
           }
         ],
         "currentTab": 3
