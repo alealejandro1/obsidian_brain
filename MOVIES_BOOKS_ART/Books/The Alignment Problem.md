@@ -1,6 +1,6 @@
 asset_type:: Book
 type_book:: Non-Fiction
-book_title::The Alignment Problem 
+title::The Alignment Problem 
 read_when::2022
 good_about_book:: {Interesting mix of psychology and reinforcement learning
 Basic understanding of data science needed to get the full value

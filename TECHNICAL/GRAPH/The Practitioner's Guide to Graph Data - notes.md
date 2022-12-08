@@ -1,6 +1,6 @@
 asset_type:: Book
 type_book:: Non-Fiction
-book_title::The Practitioner's Guide to Graph Data
+title::The Practitioner's Guide to Graph Data
 read_when::2022
 good_about_book:: Graph introduction, describe business cases suitable for graphs, comparisons with RDBMS
 bad_about_book:: Focused on Gremlin and Cassandra

@@ -14,3 +14,9 @@ possessions::
 
 
 This is where big shots elves live. Bosses are [[Galadriel]] and [[Elrond]]
+
+```dataview
+table name as "Name", authority as "Authority", description as "Description"
+from "TTRPG/LOTR_sample"
+where contains(location,[[Lothlorien]]) and contains(asset_type,"Shop")
+```

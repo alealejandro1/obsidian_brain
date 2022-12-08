@@ -1,6 +1,6 @@
 asset_type:: Book
 type_book:: Non-Fiction
-book_title::Work Clean
+title::Work Clean
 read_when::2022
 good_about_book:: {Very interesting first chapter on studying to be a chef at the CIA
 Learn about the benefits of keeping your space ultra clean and tidy at all times

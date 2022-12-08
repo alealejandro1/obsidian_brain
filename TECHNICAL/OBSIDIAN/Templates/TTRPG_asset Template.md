@@ -1,13 +1,15 @@
 asset_family::TTRPG_asset
 asset_type:: 
-name::
+name::{{title}}
 race::
 gender::
 class::
 world::
+faction::
 location::
 authority::
 description::
 status::
 hit_points::
 possessions::
+note_created_on::{{date}}
