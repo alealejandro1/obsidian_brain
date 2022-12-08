@@ -2,7 +2,7 @@
 # Alive Characters
 ```dataview
 table name as "Name", notetype as "Character Type"
-from "TTRPG/LOTR_sample_world_01"
+from "TTRPG/LOTR_sample"
 where contains(notetype,"#PC") or contains(notetype,"#NPC") and contains(status,"Alive")
 SORT file.notetype ASC
 ```

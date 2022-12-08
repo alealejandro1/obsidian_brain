@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TECHNICAL/GRAPH/The Practitioner's Guide to Graph Data - notes.md",
+                "file": "MOVIES_BOOKS_ART/Books/Close to the machine.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TECHNICAL/GRAPH/The Practitioner's Guide to Graph Data - notes.md",
+                "file": "MOVIES_BOOKS_ART/Books/Close to the machine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TECHNICAL/GRAPH/The Practitioner's Guide to Graph Data - notes.md",
+                "file": "MOVIES_BOOKS_ART/Books/Close to the machine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TECHNICAL/GRAPH/The Practitioner's Guide to Graph Data - notes.md"
+                "file": "MOVIES_BOOKS_ART/Books/Close to the machine.md"
               }
             }
           }
@@ -188,15 +188,15 @@
   },
   "active": "b345da3b33b8f966",
   "lastOpenFiles": [
-    "TECHNICAL/OBSIDIAN/Other people's obsidian.md",
-    "TECHNICAL/OBSIDIAN/Dataview guide.md",
-    "TECHNICAL/OBSIDIAN/Templates/Book Template.md",
-    "MOVIES_BOOKS_ART/Book Dataview.md",
     "NON_TECHNICAL_WORK/Articles Dataview.md",
+    "TTRPG/LOTR_sample/sessions/LOTR_S02_20221206.md",
+    "TTRPG/LOTR_sample/sessions/LOTR_S01_20221205.md",
+    "TTRPG/LOTR_sample/management/Characters.md",
+    "TTRPG/Mighty-Four-D&D-5e/NPC/Mainara.md",
+    "TTRPG/Mighty-Four-D&D-5e/NPC/Anwyn.md",
+    "2022-12-08.md",
     "NON_TECHNICAL_WORK/Talking for a living.md",
-    "NON_TECHNICAL_WORK/ARTICLES/Who’s Got the Monkey.md",
-    "NON_TECHNICAL_WORK/ARTICLES/Where's the so what.md",
-    "TECHNICAL/OBSIDIAN/Templates/Article Template.md",
-    "TECHNICAL/GRAPH/The Practitioner's Guide to Graph Data - notes.md"
+    "TECHNICAL/GRAPH/The Practitioner's Guide to Graph Data - notes.md",
+    "TECHNICAL/OBSIDIAN/Other people's obsidian.md"
   ]
 }
