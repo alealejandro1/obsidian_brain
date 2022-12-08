@@ -6,7 +6,7 @@ where contains(type_book,"Non-Fiction") and contains(read_when,null) = False
 and contains(asset_type,"Book")
 sort read_when DESC
 ``` 
-^nonfiction
+
 
 # Fiction Books I've read
 
@@ -25,4 +25,4 @@ where contains(type_book,null) = False and contains(read_when,null)
 sort ASC
 ```
 
-`dice :[[Book Dataview^]]`
+

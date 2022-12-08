@@ -1,0 +1,12 @@
+asset_family::TTRPG_asset
+asset_type:: 
+name::
+race::
+class::
+world::
+location::
+authority::
+description::
+status::
+hit_points::
+possessions::

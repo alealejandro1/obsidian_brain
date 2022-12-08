@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOVIES_BOOKS_ART/Book Dataview.md",
+                "file": "TTRPG/LOTR_sample/management/Characters.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ab3ba5eb32ce79b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TTRPG/LOTR_sample/locations/Lothlorien.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b26d242f27ce72f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TECHNICAL/OBSIDIAN/Templates/TTRPG_asset Template.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOVIES_BOOKS_ART/Book Dataview.md",
+                "file": "TTRPG/LOTR_sample/locations/Lothlorien.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOVIES_BOOKS_ART/Book Dataview.md",
+                "file": "TTRPG/LOTR_sample/locations/Lothlorien.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOVIES_BOOKS_ART/Book Dataview.md"
+                "file": "TTRPG/LOTR_sample/locations/Lothlorien.md"
               }
             }
           },
@@ -145,17 +170,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5e5e062592c78a06",
+  "active": "0ab3ba5eb32ce79b",
   "lastOpenFiles": [
+    "TTRPG/LOTR_sample/management/Table of monsters.md",
+    "TTRPG/LOTR_sample/management/Characters.md",
+    "TTRPG/LOTR_sample/locations/Middle Earth.md",
+    "TTRPG/LOTR_sample/locations/Lothlorien.md",
+    "TTRPG/LOTR_sample/locations/The Shire.md",
+    "TECHNICAL/OBSIDIAN/Templates/TTRPG_asset Template.md",
+    "MOVIES_BOOKS_ART/Book Dataview.md",
     "TECHNICAL/OBSIDIAN/Dataview guide.md",
     "NON_TECHNICAL_WORK/Articles Dataview.md",
-    "MOVIES_BOOKS_ART/Book Dataview.md",
-    "MOVIES_BOOKS_ART/Books/Work Clean.md",
-    "MOVIES_BOOKS_ART/Books/The Alignment Problem.md",
-    "MOVIES_BOOKS_ART/Books/Close to the machine.md",
-    "TECHNICAL/OBSIDIAN/Templates/Book Template.md",
-    "NON_TECHNICAL_WORK/ARTICLES/Who’s Got the Monkey.md",
-    "NON_TECHNICAL_WORK/ARTICLES/Where's the so what.md",
-    "TECHNICAL/OBSIDIAN/Templates/Article Template.md"
+    "MOVIES_BOOKS_ART/Books/Work Clean.md"
   ]
 }
