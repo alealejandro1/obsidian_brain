@@ -142,14 +142,18 @@ Ideal output is:
 Therefore, sensor 125 is at risk if Tower X fails.
 
 ## Finding Paths
-Route optimization is one of the most popular usages of graphs. Quantifying the trust is the challenge.
 
-Challenge: Naive pathfinding can quickly become very expensive computationally.
+>Distance between concepts quantifies trust.
+
+Route optimization is one of the most popular usages of graphs. 
+
+Challenge: Naive pathfinding can quickly become very expensive computationally. If you don't specify the length, it can become an exponentially longer query.
 Path Concepts:
 * ***path***: Sequence of consecutive edges in a graph
-* ***Length***: Number of edges in the path
+* ***Length***: Number of edges in the path. Considers no weights.
 * ***Shortest Path***: The path that connects two vertices (A and B) and has the shortest length of all possible paths.
-* ***Distance***: The number of edges in a shortest path > the minimum length.
+* ***Distance***: The number of edges in a shortest path > the minimum length. Considers no weights.
+
 
 Path Problems:
 * **Single Source Shortest Path** : Discover the smallest distance between vertex A to all other vertices in the graph
@@ -163,4 +167,7 @@ Breadth-First Search BFS:
 Explores all of the neighbor vertices at the present depth prior to moving to the vertices at the next depth level.
 BFS uses First-In First-Out (FIFO= queue)
 
+DFS and BFS are considered when estimating how much data will be visited in a traversal. More data, more computationally expensive.
+
+> **Minimum Cost Path or Shortest Weighted Path** : Add weight or cost to steps along a path
 
