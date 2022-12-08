@@ -101,6 +101,7 @@ Examples of Hierarchical Data:
 *  ***Path***: Sequence of visited vertices and edges, elements of which cannot be repeated.
 * ***Cycle***: A path a where the ending and starting vertex are the same. Multiple edges.
 * ***Loop***: Is an edge that starts and ends at the same vertex. One edge.
+* ***Branching Factor*** : Expected or average number of edges for any vertex.
 
 ### Power Company: Hierarchical example
 
@@ -117,3 +118,12 @@ The book goes on to explain the intricacies of looking for paths using Gremlin.
 
 Now we can consider that communication takes place in timesteps. So at timestep =0 something happens, at timestep =1 something else happens. The image below showcases this:
 ![[Pasted image 20221207111403.png]]
+
+Timesteps mean that not all walks are valid walks, because they need to be consistent with the communication timing along the way. Think of speed and distance. You miss the train if you get there too early or too late.
+
+	Consideration #1: Add time to edges when monitoring time series.
+	Consideration #2: Time goes up one way and down the other way. Else path is invalid. This should be considered when querying.
+
+Business challenge to address regarding timeseries and power towers:
+* If Tower X should fail, what sensors, if any, would we lose connection to?
+	* Report: All 
