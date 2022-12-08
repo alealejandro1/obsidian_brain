@@ -1,7 +1,17 @@
-by::Sly Flourish
-url::
-key_message::https://slyflourish.com/brain_attic.html
+
+year_posted::2013
+my_rating::4
+asset_type:: Article
+title:: Developing Your DM Brain Attic
+author::Sly Flourish
+url::https://slyflourish.com/brain_attic.html
+main_idea:: Space in our brain is finite, remove clutter and create algorithms to prompt novel ideas. 
 read_when::2022-12-08
+keywords:: Idea management, Brain Attic, tidy up, space is finite
+related_to:: [[Nicole Van Der Hoeven]] 
+
+This video was mentioned by [[Nicole Van Der Hoeven]] on a youtube video [ Creating a D&D DM's Brain Attic with Obsidian](https://www.youtube.com/watch?v=Fblwp-Uop_8)
+
 
 # Developing Your DM Brain Attic
 

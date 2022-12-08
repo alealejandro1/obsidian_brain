@@ -1,8 +1,11 @@
-article_title:: Management Time: Who’s Got the Monkey?
+asset_type:: Article
+title:: Management Time: Who’s Got the Monkey?
 year_posted::1974
 url::https://hbr.org/archive-toc/3996
 my_rating::5
 keywords:: Time management, Boss management, Delegating tasks, Managing workload
+main_idea:: Your problem should not become my problem. At most, it becomes temporarily our problem.
+read_when:: 2018
 
 # Management Time: Who’s Got the Monkey?
 

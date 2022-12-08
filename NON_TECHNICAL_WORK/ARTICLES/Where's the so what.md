@@ -1,9 +1,14 @@
-article_title:: Where's the so what
+
+
+asset_type:: Article
+title:: Where's the so what
 year_posted::2013
+author:: Ameet Ranadive
 url::https://medium.com/@ameet?source=post_page-----5cbac7d7d5ca--------------------------------
 my_rating::4.5
 keywords:: So What, Consulting, Making Slides, Synthesis 
-
+main_idea:: Say something, explain why it matters to you.
+read_when:: 2018
 [Ameet Ranadive](https://medium.com/@ameet?source=post_page-----5cbac7d7d5ca--------------------------------)
 
 Aug 17, 2013

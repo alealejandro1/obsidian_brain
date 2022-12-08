@@ -4,83 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9a9ae13c629d43f6",
+        "id": "2a0e9a24e2c7f8db",
         "type": "tabs",
         "children": [
           {
-            "id": "50b7f5a4c240a1b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TECHNICAL/OBSIDIAN/Templates/Book Template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9d98b5d5ffae3fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TECHNICAL/OBSIDIAN/Other people's obsidian.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b345da3b33b8f966",
+            "id": "5e5e062592c78a06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "MOVIES_BOOKS_ART/Book Dataview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed447f91286ab7e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TTRPG/Resources/Notes & Articles/Brain Attic.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "285769abf4f1ec19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MOVIES_BOOKS_ART/Book Dataview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35c45dbf1cf534a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MOVIES_BOOKS_ART/Books/Work Clean.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TTRPG/Resources/Notes & Articles/Brain Attic.md",
+                "file": "MOVIES_BOOKS_ART/Book Dataview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TTRPG/Resources/Notes & Articles/Brain Attic.md",
+                "file": "MOVIES_BOOKS_ART/Book Dataview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TTRPG/Resources/Notes & Articles/Brain Attic.md"
+                "file": "MOVIES_BOOKS_ART/Book Dataview.md"
               }
             }
           }
@@ -198,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ed447f91286ab7e0",
+  "active": "5e5e062592c78a06",
   "lastOpenFiles": [
+    "TECHNICAL/OBSIDIAN/Dataview guide.md",
+    "NON_TECHNICAL_WORK/Articles Dataview.md",
     "MOVIES_BOOKS_ART/Book Dataview.md",
     "MOVIES_BOOKS_ART/Books/Work Clean.md",
-    "NON_TECHNICAL_WORK/Articles Dataview.md",
-    "NON_TECHNICAL_WORK/Talking for a living.md",
-    "TECHNICAL/OBSIDIAN/Dataview guide.md",
-    "TECHNICAL/GRAPH/The Practitioner's Guide to Graph Data - notes.md",
+    "MOVIES_BOOKS_ART/Books/The Alignment Problem.md",
     "MOVIES_BOOKS_ART/Books/Close to the machine.md",
-    "TTRPG/LOTR_sample/sessions/LOTR_S02_20221206.md",
-    "TTRPG/LOTR_sample/sessions/LOTR_S01_20221205.md",
-    "TTRPG/LOTR_sample/management/Characters.md"
+    "TECHNICAL/OBSIDIAN/Templates/Book Template.md",
+    "NON_TECHNICAL_WORK/ARTICLES/Who’s Got the Monkey.md",
+    "NON_TECHNICAL_WORK/ARTICLES/Where's the so what.md",
+    "TECHNICAL/OBSIDIAN/Templates/Article Template.md"
   ]
 }

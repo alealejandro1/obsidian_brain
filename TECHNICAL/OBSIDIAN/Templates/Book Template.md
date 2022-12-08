@@ -1,3 +1,4 @@
+asset_type:: Book
 type_book:: 
 book_title::
 read_when::

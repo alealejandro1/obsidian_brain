@@ -1,3 +1,4 @@
+asset_type:: Book
 type_book:: Fiction
 book_title::Close to the machine
 read_when::2020

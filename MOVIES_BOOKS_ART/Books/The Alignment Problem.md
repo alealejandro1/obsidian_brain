@@ -1,3 +1,4 @@
+asset_type:: Book
 type_book:: Non-Fiction
 book_title::The Alignment Problem 
 read_when::2022
