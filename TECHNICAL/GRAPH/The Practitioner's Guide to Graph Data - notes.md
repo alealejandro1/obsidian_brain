@@ -44,7 +44,7 @@ Situation that led to their development:
 * ***Adjacency***: Two vertices are adjacent if they are connected by an edge
 * ***Neighborhood***: All vertices adjacent to vertex v are in the neighborhood of vertex v, **N(v)**
 * ***Distance***: Number of edges you must traverse from vertex A to vertex B. (same as hops)
-* ***Degree***: Number of edges that touch a vertex. Can be further split into In-Degree (in-going edges) and Out-Degree (outgoing edges)
+* ***Degree***: Number of edges that touch a vertex. Can be further split into In-Degree (in-going edges) and Out-Degree (outgoing edges) -> **Supernodes** have disproportionately high degree.
 * ***Schema***: Described in terms of labels, it captures how vertices and edges are related. When discussing schema use "Vertex Label" and "Edge Label". Vertices and Edges are data.
 * ***Property***: Describes a feature of a vertex or edge, such as name or age.   
 * ***Cardinality*** : Number of elements in a set or collection
@@ -154,6 +154,7 @@ Path Concepts:
 * ***Shortest Path***: The path that connects two vertices (A and B) and has the shortest length of all possible paths.
 * ***Distance***: The number of edges in a shortest path > the minimum length. Considers no weights.
 
+### Optimization
 
 Path Problems:
 * **Single Source Shortest Path** : Discover the smallest distance between vertex A to all other vertices in the graph
@@ -170,4 +171,15 @@ BFS uses First-In First-Out (FIFO= queue)
 DFS and BFS are considered when estimating how much data will be visited in a traversal. More data, more computationally expensive.
 
 > **Minimum Cost Path or Shortest Weighted Path** : Add weight or cost to steps along a path
+> Definition: The shortest path between two vertices such that the sum of the edge's weight is minimum. --> we are not counting edges, but aggregating their weight as we traverse.
 
+Shortest path considering edge weights -> Bounded minimum optimization problem
+
+Typical Graph path algorithms:
+* A* (A star)
+* Floyd-Warshall
+* Dijkstra
+
+**Lowest Cost optimization**: It excludes an edge if the edge's destination is reachable via a lower cost path
+**Supernode Avoidance:** It excludes a vertex if its degree would increase the search space complexity over a threshold.
+**Global Heuristic:**  Excludes an edge if the edge's weight causes the path's total weight to exceed a treshold.
