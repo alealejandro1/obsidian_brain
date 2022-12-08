@@ -140,3 +140,27 @@ Ideal output is:
 "sensor 125":[Tower X]
 }
 Therefore, sensor 125 is at risk if Tower X fails.
+
+## Finding Paths
+Route optimization is one of the most popular usages of graphs. Quantifying the trust is the challenge.
+
+Challenge: Naive pathfinding can quickly become very expensive computationally.
+Path Concepts:
+* ***path***: Sequence of consecutive edges in a graph
+* ***Length***: Number of edges in the path
+* ***Shortest Path***: The path that connects two vertices (A and B) and has the shortest length of all possible paths.
+* ***Distance***: The number of edges in a shortest path > the minimum length.
+
+Path Problems:
+* **Single Source Shortest Path** : Discover the smallest distance between vertex A to all other vertices in the graph
+* **All-pairs shortest path**: Discover the smallest distance walk between any two vertices in the graph.
+
+Depth-First Search DFS:
+Algorithm for traversing graph data structures. Explores a path as deep as possible along each branch before backtracking.
+DFS uses Last-In First-Out (LIFO= stack)
+
+Breadth-First Search BFS:
+Explores all of the neighbor vertices at the present depth prior to moving to the vertices at the next depth level.
+BFS uses First-In First-Out (FIFO= queue)
+
+
