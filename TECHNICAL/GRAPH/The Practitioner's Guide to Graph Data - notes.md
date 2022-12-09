@@ -252,12 +252,25 @@ When resolving entity resolution for 2 datasets of movies, one of the ways that 
 Note: When merging data sources with their respective Ids, take note of the distribution of strong identifiers in each system. Example is comparing MovieLens and Kaggle movie datasets.
 
 
-# Strategies in production for Reccomendations
+# Strategies in production for Reccomendations: Shortcut Edges
 
 Because in reality, no one will wait for multiple-second or even minutes of searches when users want a recommendation in a website, there are few approaches to consider:
 
-* Shortcut edges : 
-* Precomputation:
-* Pruning Techniques: 
+* Shortcut edges : Contains a precomputed result of a multi-hop query from vertex $a$ to vertex $n$ to be stored directly $a \rightarrow n$ 
+* Precomputation: Ahead of time, run expensive multi-hop queries and create shortcut edges for later.
+* Pruning Techniques: Can prune to avoid expensive computation, but there is a cost. Can decide based on score, number of results or domain knowledge expectations.
 
-The naive Net Promoter Score calculation will not scale:
+The naive Net Promoter Score calculation for the image below will not scale because of the branching factor and supernodes.
+![[Pasted image 20221209162921.png]]
+
+In the recommendations, the big problems for scale are the following supernodes:
+* Super-users
+* Super-popular content
+How to address --> Shortcut Edges.
+
+Unpacking pruning techniques:
+* By score thresholds : If there is a hard numerical limit you can escape the query
+* By total number of recommendations: Defining a hard limit (N=100) of total number of edges you are going to use in production. Means you store up the 100 top recomendations.
+* By domain knowledge filters: If your user likes drama, include dramas.
+
+Production decision: When to update 
