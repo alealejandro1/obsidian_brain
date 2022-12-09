@@ -291,3 +291,12 @@ Production decision: When to update Shortcut edges:
 * Break down computation into smaller and more deterministic blocks. Makes for a more fault-tolerant pipeline.
 
 There is much more advanced stuff to do with Batch computation. This is how deep this book goes.
+
+### Next steps in recommendations
+Filtering for unwanted stuff: Wrong genre, movies already watched (especially if rated poorly)
+
+## Epilogue: Next steps to study
+* Graph Algorithms ~ centrality, coloring 
+* Distributed Graphs
+* Graph Theory
+* Network Theory
