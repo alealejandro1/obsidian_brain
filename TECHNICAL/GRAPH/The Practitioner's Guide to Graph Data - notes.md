@@ -229,7 +229,14 @@ Products bought by someone else who bought the same product you bought, become "
 		* Hybrid Models
 
 ### Ranking Recommendations: Path Counting, Net Promoter Score, Normalized NPS
-
+In the example of movie recommendations by users, you can rank your recommendations by the following approaches:
 **Path Counting**: Count how many edges with 5-star rating were done by users who also voted 5-star the movie you voted 5-star. Only involved 5 star ratings.
 **Net Promoter Score**: It considers all edges (not only 5 star), substracting (score <=4) and adding (score>4). 
-Normalized Net Promoter Score: High degree movies are popular, so if you are trying to recommend less popular options, consider normalizing NPS by degree of movie.
+**Normalized Net Promoter Score**: High degree movies are popular, so if you are trying to recommend less popular options, consider normalizing NPS by degree of movie.
+
+Also, instead of keeping the numerical value of the rating, you can bucketize the numerical value using something like: 
+* rating>= 4.5 --> LIKED
+* 4.5 > rating >= 3 --> NEUTRAL
+* rating > 3 --> DISLIKED
+
+
