@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOURISM/Cities Visited.md",
+                "file": "TECHNICAL/GRAPH/The Practitioner's Guide to Graph Data - notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOURISM/Cities Visited.md",
+                "file": "TECHNICAL/GRAPH/The Practitioner's Guide to Graph Data - notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOURISM/Cities Visited.md",
+                "file": "TECHNICAL/GRAPH/The Practitioner's Guide to Graph Data - notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOURISM/Cities Visited.md"
+                "file": "TECHNICAL/GRAPH/The Practitioner's Guide to Graph Data - notes.md"
               }
             }
           },
@@ -239,13 +239,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "805e00032a3132e1",
   "lastOpenFiles": [
-    "TOURISM/TOURISM NOTES/Wellington.md",
     "TOURISM/Cities Visited.md",
+    "TOURISM/TOURISM NOTES/Wellington.md",
     "TECHNICAL/OBSIDIAN/Templates/Tourism Note Template.md",
     "TOURISM/TOURISM NOTES/Helsinki.md",
     "TOURISM/TOURISM NOTES/Bali.md",

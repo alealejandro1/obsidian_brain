@@ -155,7 +155,7 @@ Path Concepts:
 * ***Shortest Path***: The path that connects two vertices (A and B) and has the shortest length of all possible paths.
 * ***Distance***: The number of edges in a shortest path > the minimum length. Considers no weights.
 
-### Optimization
+### Optimization Strategy
 
 Path Problems:
 * **Single Source Shortest Path** : Discover the smallest distance between vertex A to all other vertices in the graph
@@ -184,3 +184,13 @@ Typical Graph path algorithms:
 **Lowest Cost optimization**: It excludes an edge if the edge's destination is reachable via a lower cost path
 **Supernode Avoidance:** It excludes a vertex if its degree would increase the search space complexity over a threshold.
 **Global Heuristic:**  Excludes an edge if the edge's weight causes the path's total weight to exceed a treshold.
+
+Edge ~ 10 : Highest trust
+Edge ~ -10 : No trust
+Additionally, because original edge_weight went [-10 , 10], it needs to be normalized. However there is a challenge with adding up edges so that the longer paths will get a higher total value. This will encourage to reward longer paths, when what we want is shorter paths.
+
+Solution: Frame the scale as a shortest path problem -> We want the highest trust path.
+* Use logarithms, so multiplication becomes addition --> important in probabilities
+* Multiply end result by -1 so that the maximum becomes the minimum
+
+Interpretation:
