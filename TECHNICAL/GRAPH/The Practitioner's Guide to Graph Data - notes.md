@@ -296,7 +296,9 @@ There is much more advanced stuff to do with Batch computation. This is how deep
 Filtering for unwanted stuff: Wrong genre, movies already watched (especially if rated poorly)
 
 ## Epilogue: Next steps to study
-* Graph Algorithms ~ centrality, coloring 
-* Distributed Graphs
-* Graph Theory
-* Network Theory
+* Graph Algorithms ~ centrality, coloring, etc. ~ usually requires global computation 
+* Distributed Graphs ~ too big to fit in one machine, how to handle availability and consistency
+* Graph Theory ~ math
+* Network Theory ~ scale-free networks, dynamics that shape those natural graphs, 
+
+A nice point of Network Theory and Scale-free behavior is **preferential attachment** where a new user in Twitter likely will add a celebrity and not a random user. The rich get richer and the poor get poorer phenomena.
