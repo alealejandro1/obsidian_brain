@@ -185,12 +185,25 @@ Typical Graph path algorithms:
 **Supernode Avoidance:** It excludes a vertex if its degree would increase the search space complexity over a threshold.
 **Global Heuristic:**  Excludes an edge if the edge's weight causes the path's total weight to exceed a treshold.
 
+### Finding highest trust : Product of edges weights
 Edge ~ 10 : Highest trust
 Edge ~ -10 : No trust
-Additionally, because original edge_weight went [-10 , 10], it needs to be normalized. However there is a challenge with adding up edges so that the longer paths will get a higher total value. This will encourage to reward longer paths, when what we want is shorter paths.
+Additionally, because original edge_weight went [-10 , 10], it needs to be normalized to [0,1]. However there is a challenge with adding up edges so that the longer paths will get a higher total value. This will encourage to reward longer paths, when what we want is shorter paths.
 
 Solution: Frame the scale as a shortest path problem -> We want the highest trust path.
 * Use logarithms, so multiplication becomes addition --> important in probabilities
 * Multiply end result by -1 so that the maximum becomes the minimum
 
-Interpretation:
+Interpretation: Chance(a) and Chance(b) = Chance(a) * Chance(b)
+If you half trust A, and A half trust's B --> you 1/4 trust B.
+
+Log(A)+Log(B) = Log (A * B) ==>> this means we can just add up the log values, and that is like computing the productory of the trust.
+
+| Trust | Normalized | Log(Normalized) | Adjusted Final Value |
+| ----- | ---------- | --------------- | -------------------- |
+| -10   | 0          | -infinity       | 100                  |
+| -1    | 0.45       | -0.39           | 0.39                 |
+| 1     | 0.5        | -0.3            | 0.3                  |
+| 10    | 1          | 0               | 0                   |
+
+So adding nodes of low trust, is like adding a higher weight --> so we should aim for the "lowest weight" path using the adjusted final values.
