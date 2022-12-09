@@ -257,7 +257,7 @@ Note: When merging data sources with their respective Ids, take note of the dist
 Because in reality, no one will wait for multiple-second or even minutes of searches when users want a recommendation in a website, there are few approaches to consider:
 
 * Shortcut edges : Contains a precomputed result of a multi-hop query from vertex $a$ to vertex $n$ to be stored directly $a \rightarrow n$ 
-* Precomputation: Ahead of time, run expensive multi-hop queries and create shortcut edges for later.
+* Precomputation: Ahead of time, run expensive multi-hop queries and create shortcut edges for later. This is how you generate the shorcut edges.
 * Pruning Techniques: Can prune to avoid expensive computation, but there is a cost. Can decide based on score, number of results or domain knowledge expectations.
 
 The naive Net Promoter Score calculation for the image below will not scale because of the branching factor and supernodes.
@@ -267,6 +267,18 @@ In the recommendations, the big problems for scale are the following supernodes:
 * Super-users
 * Super-popular content
 How to address --> Shortcut Edges.
+Note that Shortcut edges are to be used LIVE, but you cannot take a shortcut to calculate the shortcut. That computational cost needs to be paid (that's the precompute).
+
+For the movie example, shorcut edges allow you to connect 2 movies (skipping all the users). 
+Situation:
+Take movie X, come up with top 100 highest rated recommended movies if you liked movie X. 
+For parallel processing:
+> SETUP: Load users, movies and ratings graph into a separate environment
+> DECOMPOSE: Divide the movie_ids into N smaller, independent lists 
+> ASSIGNMENT: Assign one list per processor (the parallel part)
+> ORCHESTRATION: Synchronously compute shortcut 100 edges for each movie
+> EXTRACTION: Save the results to be loaded into the production graph
+> 
 
 Unpacking pruning techniques:
 * By score thresholds : If there is a hard numerical limit you can escape the query
@@ -276,4 +288,6 @@ Unpacking pruning techniques:
 Production decision: When to update Shortcut edges:
 * Update shortcut edges related to content that changed, so you keep up with what's trending and ignore the unchanged.
 * Favor pipelines that are consumed by user (if no one clicks on your recommendations, deprioritize them)
-* 
+* Break down computation into smaller and more deterministic blocks. Makes for a more fault-tolerant pipeline.
+
+There is much more advanced stuff to do with Batch computation. This is how deep this book goes.
