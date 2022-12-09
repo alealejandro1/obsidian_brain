@@ -13,4 +13,6 @@ note_created_on::2022-12-09
 
 
 * Because adding up dice lead to uneven distirbutions, avoid that practice (suggested in most books)
-* Make tables o
+* Make tables according to different levels OR
+* Create a long table that gets progressively harder, then as players level up , add a modifier to the roll.
+* The order of items on the list can be used to address distance to town. Near town you get patrols from militia, far from town you get undead and strange forest creatures.
