@@ -1,3 +1,4 @@
+note_type:: Tourism
 title::{{title}}
 country::
 keywords::

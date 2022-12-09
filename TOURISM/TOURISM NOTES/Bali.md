@@ -1,3 +1,4 @@
+note_type:: Tourism
 title::Bali
 country:: [[Indonesia]]
 keywords:: Beach, Temple, Affordable, Relaxed, Rainforest, Hot

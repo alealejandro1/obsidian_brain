@@ -1,3 +1,4 @@
+note_type:: Tourism
 title::Helsinki
 country::[[Finland]]
 keywords:: White Night, Expensive, Beautiful, Credit Card everywhere
