@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "74fd3c11a27909c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TOURISM/Cities Visited.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TECHNICAL/OBSIDIAN/Templates/Tourism Note Template.md",
+                "file": "TOURISM/Cities Visited.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TECHNICAL/OBSIDIAN/Templates/Tourism Note Template.md",
+                "file": "TOURISM/Cities Visited.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TECHNICAL/OBSIDIAN/Templates/Tourism Note Template.md"
+                "file": "TOURISM/Cities Visited.md"
               }
             }
           },
@@ -194,8 +206,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f310ce6d62fd4fff",
+  "active": "74fd3c11a27909c6",
   "lastOpenFiles": [
+    "TECHNICAL/OBSIDIAN/Templates/Tourism Note Template.md",
     "TECHNICAL/OBSIDIAN/Templates/Article Template.md",
     "TTRPG/LOTR_sample/locations/Lothlorien.md",
     "TTRPG/LOTR_sample/locations/Lothloriens diner.md",
@@ -204,7 +217,6 @@
     "TTRPG/LOTR_sample/locations/Elven Foundry.md",
     "TECHNICAL/OBSIDIAN/Templates/TTRPG_asset Template.md",
     "NON_TECHNICAL_WORK/Articles Dataview.md",
-    "MOVIES_BOOKS_ART/Book Dataview.md",
-    "MOVIES_BOOKS_ART/Books/Work Clean.md"
+    "MOVIES_BOOKS_ART/Book Dataview.md"
   ]
 }
