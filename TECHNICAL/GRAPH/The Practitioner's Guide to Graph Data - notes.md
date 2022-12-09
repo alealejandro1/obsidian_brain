@@ -250,3 +250,14 @@ From a mathematical definition of entity resolution, given a,b items of D:
 When resolving entity resolution for 2 datasets of movies, one of the ways that vertices considered about movies was actors and directors related to the movie. One addition that was made in the book, was to create the edge "COLLABORATED IN YEAR" between actors.
 
 Note: When merging data sources with their respective Ids, take note of the distribution of strong identifiers in each system. Example is comparing MovieLens and Kaggle movie datasets.
+
+
+# Strategies in production for Reccomendations
+
+Because in reality, no one will wait for multiple-second or even minutes of searches when users want a recommendation in a website, there are few approaches to consider:
+
+* Shortcut edges : 
+* Precomputation:
+* Pruning Techniques: 
+
+The naive Net Promoter Score calculation will not scale:
