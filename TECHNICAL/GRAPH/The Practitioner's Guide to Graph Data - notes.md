@@ -209,3 +209,27 @@ Log(A)+Log(B) = Log (A * B) ==>> this means we can just add up the log values, a
 So adding nodes of low trust, is like adding a higher weight --> so we should aim for the "lowest weight" path using the adjusted final values.
 
 # Recommendations
+
+People you might know in LinkedIn: The most connected friends of friends. --> Somewhat shallow graph.
+
+Same for recommending products in e-commerce:
+![[Pasted image 20221209140947.png]]
+Products bought by someone else who bought the same product you bought, become "Products you might want".
+
+### Recommender System: Collaborative Filtering
+	A type of recommendation system that predicts new content (filtering) by matching the interests of the individual with the preference of many users (collaborative).
+
+* Recommender Systems
+	* Content-Based ~ based on user preference
+	* Social Data Mining ~ historical trends from community (individual user not involved)
+	* Hybrid Models
+	* Collaborative Filtering ~ combines invidual + community prefrences
+		* User-based ~ find similar users
+		* Item-based ~ find similar items
+		* Hybrid Models
+
+### Ranking Recommendations: Path Counting, Net Promoter Score, Normalized NPS
+
+**Path Counting**: Count how many edges with 5-star rating were done by users who also voted 5-star the movie you voted 5-star. Only involved 5 star ratings.
+**Net Promoter Score**: It considers all edges (not only 5 star), substracting (score <=4) and adding (score>4). 
+Normalized Net Promoter Score: High degree movies are popular, so if you are trying to recommend less popular options, consider normalizing NPS by degree of movie.
