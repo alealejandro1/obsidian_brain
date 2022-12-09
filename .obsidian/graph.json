@@ -1,9 +1,9 @@
 {
   "collapse-filter": false,
-  "search": "tag:#mightyFourSession",
+  "search": "path:TECHNICAL/",
   "showTags": true,
   "showAttachments": false,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
@@ -47,5 +47,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 1.710718399317069,
-  "close": false
+  "close": true
 }

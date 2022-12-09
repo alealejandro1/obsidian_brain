@@ -2,10 +2,10 @@ asset_type:: Book
 type_book:: Non-Fiction
 title::The Practitioner's Guide to Graph Data
 read_when::2022
-good_about_book:: Graph introduction, describe business cases suitable for graphs, comparisons with RDBMS
+good_about_book:: Graph introduction, describe business cases suitable for graphs, comparisons with RDBMS, customer360, hierarchical power grids, movie recommendation system, collaborative filtering
 bad_about_book:: Focused on Gremlin and Cassandra
 my_score::3.5
-keywords:: Graph, Graph Database, Gremlin, Complex Problems
+keywords:: [[Graph]], Graph Database, [[Gremlin]], [[Complex Problems]]
 reminded_me_of::
 
 ![[Pasted image 20221206160235.png]]
@@ -53,7 +53,7 @@ Situation that led to their development:
 * ***Collection***: Abstract data type that stores nonunique values (like a python list [] )
 
 
-## Graph Use Case: Customer 360
+## Graph Use Case: [[Customer 360]]
 Goal: There is a central object (a customer) and then there are many pieces of data coming from different business domains that say something about the customer. Payment details, demographic, past purchases, address, etc..
 
 Relational Implementation
@@ -161,11 +161,11 @@ Path Problems:
 * **Single Source Shortest Path** : Discover the smallest distance between vertex A to all other vertices in the graph
 * **All-pairs shortest path**: Discover the smallest distance walk between any two vertices in the graph.
 
-Depth-First Search DFS:
+[[Depth-First Search]] DFS:
 Algorithm for traversing graph data structures. Explores a path as deep as possible along each branch before backtracking.
 DFS uses Last-In First-Out (LIFO= stack)
 
-Breadth-First Search BFS:
+[[Breadth-First Search]] BFS:
 Explores all of the neighbor vertices at the present depth prior to moving to the vertices at the next depth level.
 BFS uses First-In First-Out (FIFO= queue)
 
@@ -216,7 +216,7 @@ Same for recommending products in e-commerce:
 ![[Pasted image 20221209140947.png]]
 Products bought by someone else who bought the same product you bought, become "Products you might want".
 
-### Recommender System: Collaborative Filtering
+### Recommender System: [[Collaborative Filtering]]
 	A type of recommendation system that predicts new content (filtering) by matching the interests of the individual with the preference of many users (collaborative).
 
 * Recommender Systems
@@ -252,7 +252,7 @@ When resolving entity resolution for 2 datasets of movies, one of the ways that 
 Note: When merging data sources with their respective Ids, take note of the distribution of strong identifiers in each system. Example is comparing MovieLens and Kaggle movie datasets.
 
 
-# Strategies in production for Reccomendations: Shortcut Edges
+# Strategies in production for Reccomendations: [[Shortcut Edges]]
 
 Because in reality, no one will wait for multiple-second or even minutes of searches when users want a recommendation in a website, there are few approaches to consider:
 
@@ -296,9 +296,9 @@ There is much more advanced stuff to do with Batch computation. This is how deep
 Filtering for unwanted stuff: Wrong genre, movies already watched (especially if rated poorly)
 
 ## Epilogue: Next steps to study
-* Graph Algorithms ~ centrality, coloring, etc. ~ usually requires global computation 
-* Distributed Graphs ~ too big to fit in one machine, how to handle availability and consistency
-* Graph Theory ~ math
-* Network Theory ~ scale-free networks, dynamics that shape those natural graphs, 
+* [[Graph Algorithms]] ~ centrality, coloring, etc. ~ usually requires global computation 
+* [[Distributed Graphs]] ~ too big to fit in one machine, how to handle availability and consistency
+* [[Graph Theory]] ~ math
+* [[Network Theory]] ~ scale-free networks, dynamics that shape those natural graphs, 
 
 A nice point of Network Theory and Scale-free behavior is **preferential attachment** where a new user in Twitter likely will add a celebrity and not a random user. The rich get richer and the poor get poorer phenomena.
