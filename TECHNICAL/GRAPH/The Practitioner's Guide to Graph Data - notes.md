@@ -207,3 +207,5 @@ Log(A)+Log(B) = Log (A * B) ==>> this means we can just add up the log values, a
 | 10    | 1          | 0               | 0                   |
 
 So adding nodes of low trust, is like adding a higher weight --> so we should aim for the "lowest weight" path using the adjusted final values.
+
+# Recommendations
