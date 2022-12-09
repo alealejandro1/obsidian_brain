@@ -239,4 +239,9 @@ Also, instead of keeping the numerical value of the rating, you can bucketize th
 * 4.5 > rating >= 3 --> NEUTRAL
 * rating > 3 --> DISLIKED
 
+### Entity resolution: Inferring who's who
 
+From a mathematical definition of entity resolution, given a,b items of D: 
+	if $f(a,b) \geq T \rightarrow a=b$
+
+![[Pasted image 20221209152035.png]]
