@@ -239,9 +239,14 @@ Also, instead of keeping the numerical value of the rating, you can bucketize th
 * 4.5 > rating >= 3 --> NEUTRAL
 * rating > 3 --> DISLIKED
 
-### Entity resolution: Inferring who's who
+### Entity resolution: Inferring who's who -> Not really graph related
+Although this process can be done in graphs, this process can entirely be done in RDBMS.
 
 From a mathematical definition of entity resolution, given a,b items of D: 
 	if $f(a,b) \geq T \rightarrow a=b$
 
 ![[Pasted image 20221209152035.png]]
+
+When resolving entity resolution for 2 datasets of movies, one of the ways that vertices considered about movies was actors and directors related to the movie. One addition that was made in the book, was to create the edge "COLLABORATED IN YEAR" between actors.
+
+Note: When merging data sources with their respective Ids, take note of the distribution of strong identifiers in each system. Example is comparing MovieLens and Kaggle movie datasets.
