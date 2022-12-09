@@ -273,4 +273,7 @@ Unpacking pruning techniques:
 * By total number of recommendations: Defining a hard limit (N=100) of total number of edges you are going to use in production. Means you store up the 100 top recomendations.
 * By domain knowledge filters: If your user likes drama, include dramas.
 
-Production decision: When to update 
+Production decision: When to update Shortcut edges:
+* Update shortcut edges related to content that changed, so you keep up with what's trending and ignore the unchanged.
+* Favor pipelines that are consumed by user (if no one clicks on your recommendations, deprioritize them)
+* 
