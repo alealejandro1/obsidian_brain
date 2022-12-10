@@ -98,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -177,11 +178,11 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "af5d740e2509abcf",
+  "active": "e6e61f52fe923b62",
   "lastOpenFiles": [
-    "LIFE_SKILLS/First Aid Kit Hiking.md",
-    "TTRPG/Resources/Notes & Articles/Make your 2d6 Random Encounter Tables WAY BETTER.md",
     "TTRPG/Resources/Notes & Articles/D&D HexCrawls! How To Do Exploration RIGHT!.md",
+    "TTRPG/Resources/Notes & Articles/Make your 2d6 Random Encounter Tables WAY BETTER.md",
+    "LIFE_SKILLS/First Aid Kit Hiking.md",
     "TECHNICAL/GRAPH/GraphDB crash-course.md",
     "NON_TECHNICAL_WORK/ARTICLES/Who’s Got the Monkey.md",
     "TECHNICAL/GRAPH/The Practitioner's Guide to Graph Data - notes.md",

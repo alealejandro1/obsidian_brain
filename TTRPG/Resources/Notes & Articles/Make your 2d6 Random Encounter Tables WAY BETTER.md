@@ -13,15 +13,11 @@ note_created_on::2022-12-09
 
 
 * Because adding up dice lead to uneven distirbutions, avoid that practice (suggested in most books)
-*|behavior`les according to different levels OR
-* Create a long table that gets progressivel|behavio`, then as players level up , add a modifier to the roll.
-* The order of items on t|behavi` can be used to address distance to town. Near town you get patrols from militia, f|behav`m town you get undead and strange forest creatures or whatever it is away from town.|beha`n between 2 towns.
+* Make tables according to different levels OR
+* Create a long table that gets progressively harder, then as players level up , add a modifier to the roll.
+* The order of items on the list can be used to address distance to town. Near town you get patrols from militia, far from town you get undead and strange forest creatures or whatever it is away from town. Or in between 2 towns.
 
 ## Example of the d666 table
-Roll three d6 to select a random sit|beh`on.
-`d`ice: [[Make your 2d6 Random Encounter Tables WAY BETTER#^exampled666encounter]]|be`ounter
-`ice: [[Make your 2d6 Random Encounter Tables WAY BETTER#^exampled666encounter]]|b`ice: [[Make your 2d6 Random Encounter Tables WAY BETTER#^exampled666encounter]]|encounter`
-
 
 | encounter | behavior             | complication |
 | --------- | -------------------- | ------------ |
@@ -30,4 +26,11 @@ Roll three d6 to select a random sit|beh`on.
 | Patrol    | Sleeping by the tree | Hungry       |
 | Goblins   | Hunting Prey         | Broken Gear  |
 | Wyvern    | Eating               | Sick Young   |
-^exampled666encounter
+^exampled666table
+
+Roll 3 d6 to get a random encounter that has something going on:
+
+`dice: [[Make your 2d6 Random Encounter Tables WAY BETTER#^exampled666table]]|encounter`
+`dice: [[Make your 2d6 Random Encounter Tables WAY BETTER#^exampled666table]]|behavior`
+`dice: [[Make your 2d6 Random Encounter Tables WAY BETTER#^exampled666table]]|complication`
+
