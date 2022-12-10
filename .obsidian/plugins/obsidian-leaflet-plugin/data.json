@@ -1,5 +1,51 @@
 {
-  "mapMarkers": [],
+  "mapMarkers": [
+    {
+      "id": "leaflet-map",
+      "lastAccessed": 1670659708687,
+      "markers": [
+        {
+          "id": "ID_68884bf9c999",
+          "type": "default",
+          "loc": [
+            -0.6663856506347656,
+            1.3789596557617188
+          ],
+          "link": "Elven Foundry",
+          "layer": "%5B%5BPasted%20image%2020221210154445.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Little elven foundry",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4aa98aea7909",
+          "type": "default",
+          "loc": [
+            -0.9419097900390625,
+            0.8235015869140625
+          ],
+          "link": "Lothloriens diner",
+          "layer": "%5B%5BPasted%20image%2020221210154445.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Best dinner in town",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "TTRPG/LOTR_sample/locations/Lothlorien.md"
+      ]
+    }
+  ],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",
