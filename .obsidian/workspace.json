@@ -38,9 +38,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "af5d740e2509abcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TTRPG/Resources/Notes & Articles/Make your 2d6 Random Encounter Tables WAY BETTER.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -165,8 +177,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "5dcabf2f67d6ce7d",
+  "active": "af5d740e2509abcf",
   "lastOpenFiles": [
+    "LIFE_SKILLS/First Aid Kit Hiking.md",
+    "TTRPG/Resources/Notes & Articles/Make your 2d6 Random Encounter Tables WAY BETTER.md",
     "TTRPG/Resources/Notes & Articles/D&D HexCrawls! How To Do Exploration RIGHT!.md",
     "TECHNICAL/GRAPH/GraphDB crash-course.md",
     "NON_TECHNICAL_WORK/ARTICLES/Who’s Got the Monkey.md",
@@ -174,8 +188,6 @@
     "TOURISM/Cities Visited.md",
     "TOURISM/TOURISM NOTES/Wellington.md",
     "TECHNICAL/OBSIDIAN/Templates/Tourism Note Template.md",
-    "TOURISM/TOURISM NOTES/Helsinki.md",
-    "TOURISM/TOURISM NOTES/Bali.md",
-    "2022-12-09.md"
+    "TOURISM/TOURISM NOTES/Helsinki.md"
   ]
 }
