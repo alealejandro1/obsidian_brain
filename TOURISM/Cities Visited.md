@@ -5,14 +5,14 @@ where contains(note_type,"Tourism")
 ```
 
 ```leaflet
-id: leaflet-map
+id: leaflet-cities-visited
 image: 
 height: 800px
 lat: 50
-long: 50
+long: 10
 minZoom: 1
 maxZoom: 10
-defaultZoom: 2
+defaultZoom: 1
 unit: meters
 scale: 1
 marker: default

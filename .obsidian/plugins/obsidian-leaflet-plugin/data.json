@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "leaflet-map",
-      "lastAccessed": 1670662394404,
+      "lastAccessed": 1670712950027,
       "markers": [
         {
           "id": "ID_68884bf9c999",
@@ -43,6 +43,68 @@
       "shapes": [],
       "files": [
         "TTRPG/LOTR_sample/locations/Lothlorien.md",
+        "TOURISM/Cities Visited.md"
+      ]
+    },
+    {
+      "id": "leaflet-cities-visited",
+      "lastAccessed": 1670712950027,
+      "markers": [
+        {
+          "id": "ID_08099918e8fa",
+          "type": "default",
+          "loc": [
+            -8.46346891955578,
+            115.1697099208832
+          ],
+          "link": "Bali",
+          "layer": "real",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3a3a3a7ad9cb",
+          "type": "default",
+          "loc": [
+            60.18941469676139,
+            24.949951171875
+          ],
+          "link": "Helsinki",
+          "layer": "real",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_69f85a595bf8",
+          "type": "default",
+          "loc": [
+            -41.21191521642792,
+            175.29175758361816
+          ],
+          "link": "Wellington",
+          "layer": "real",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
         "TOURISM/Cities Visited.md"
       ]
     }

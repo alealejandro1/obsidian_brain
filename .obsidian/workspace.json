@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG/LOTR_sample/locations/Elven Foundry.md",
+                "file": "TTRPG/Resources/Notes & Articles/Make your 2d6 Random Encounter Tables WAY BETTER.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOURISM/Cities Visited.md",
+                "file": "TTRPG/Resources/Notes & Articles/Make your 2d6 Random Encounter Tables WAY BETTER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOURISM/Cities Visited.md",
+                "file": "TTRPG/Resources/Notes & Articles/Make your 2d6 Random Encounter Tables WAY BETTER.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOURISM/Cities Visited.md"
+                "file": "TTRPG/Resources/Notes & Articles/Make your 2d6 Random Encounter Tables WAY BETTER.md"
               }
             }
           },
@@ -158,24 +159,23 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "3307e104b48772a2",
+  "active": "126a21d594b0ed42",
   "lastOpenFiles": [
-    "TTRPG/LOTR_sample/locations/Lothloriens diner.md",
-    "TOURISM/Cities Visited.md",
+    "TTRPG/Resources/TTRPG Notes & Articles Dataview.md",
+    "TTRPG/LOTR_sample/management/Table of monsters.md",
+    "TTRPG/LOTR_sample/management/Characters.md",
     "TTRPG/LOTR_sample/locations/Lothlorien.md",
     "TTRPG/LOTR_sample/locations/Elven Foundry.md",
-    "TTRPG/LOTR_sample/locations/attachments/Pasted image 20221210154445.png",
-    "TTRPG/LOTR_sample/management/Characters.md",
-    "TTRPG/LOTR_sample/management/Table of monsters.md",
-    "TTRPG/Resources/TTRPG Notes & Articles Dataview.md",
-    "TECHNICAL/OBSIDIAN/Dataview guide.md",
-    "TTRPG/Resources/Notes & Articles/D&D HexCrawls! How To Do Exploration RIGHT!.md"
+    "TOURISM/Cities Visited.md",
+    "TOURISM/TOURISM NOTES/Wellington.md",
+    "TOURISM/TOURISM NOTES/Bali.md",
+    "TTRPG/LOTR_sample/locations/Lothloriens diner.md",
+    "TTRPG/LOTR_sample/locations/attachments/Pasted image 20221210154445.png"
   ]
 }
