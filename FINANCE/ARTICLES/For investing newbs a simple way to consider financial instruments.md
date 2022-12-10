@@ -4,17 +4,30 @@ year_posted::
 author:: [[Woke Salaryman]]
 url::https://thewokesalaryman.com/2022/11/29/for-investing-newbs-a-simple-way-to-consider-financial-instruments/
 my_rating::4
-main_idea:: Many forms of l
+main_idea:: Many forms of liquidity, generally good liquidity has poor payoff
 keywords:: [[Liquidity]], [[Magic Triangle of Investing]], 
 read_when::2022-12-11
 note_created_on::2022-12-11
 
+I made this table based on the article:
+| Service                                                       | Liquidity   | Payoff      | Risk   |
+| ------------------------------------------------------------- | ----------- | ----------- | ------ |
+| [[Roboadvisors]]: Cash management accounts/Money market funds | High        | 1.5% - 2.8% | Low    |
+| High-yield savings account                                    | High        | 1-3%        | Low    |
+| CPF Special Account                                           | Low         | 4%          | Low    |
+| Long Term Endowment                                           | Low         | 3-5%        | Medium |
+| [[Stocks]]                                                    | Medium-High | anything    | High   |
+| [[Unit Trusts]]                                               | Medium      | < Stocks    | Med       |
+| [[ETFs]]                                                      | Medium      | < Stocks    | Med       |
+^TableOfInvestments
 
-![[Pasted image 20221211031341.png]]
-^MagicTriangleOfInvesting
+
+-----
+
+![[Magic Triangle of Investing]]
 
 In Investments Pick 2: Low Risk, High Return or Liquidity
-**liquidity premium** : What investment firms pay you so you are encouraged not to touch your investment in the short run ^864648
+**liquidity premium** : What investment firms pay you so you are encouraged not to touch your investment in the short run
 
 **Cash management accounts/Money market funds:**
 
