@@ -4,7 +4,7 @@
   "copyContentButton": true,
   "customFormulas": [],
   "displayFormulaForMod": true,
-  "displayResultsInline": true,
+  "displayResultsInline": false,
   "displayLookupRoll": true,
   "formulas": {},
   "persistResults": false,

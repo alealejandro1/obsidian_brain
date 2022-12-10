@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG/Resources/Notes & Articles/Make your 2d6 Random Encounter Tables WAY BETTER.md",
+                "file": "TTRPG/Resources/TTRPG Notes & Articles Dataview.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TTRPG/Resources/Notes & Articles/Make your 2d6 Random Encounter Tables WAY BETTER.md",
+                "file": "TTRPG/Resources/TTRPG Notes & Articles Dataview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TTRPG/Resources/Notes & Articles/Make your 2d6 Random Encounter Tables WAY BETTER.md",
+                "file": "TTRPG/Resources/TTRPG Notes & Articles Dataview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TTRPG/Resources/Notes & Articles/Make your 2d6 Random Encounter Tables WAY BETTER.md"
+                "file": "TTRPG/Resources/TTRPG Notes & Articles Dataview.md"
               }
             }
           },
@@ -178,10 +178,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "e6e61f52fe923b62",
+  "active": "af5d740e2509abcf",
   "lastOpenFiles": [
-    "TTRPG/Resources/Notes & Articles/D&D HexCrawls! How To Do Exploration RIGHT!.md",
     "TTRPG/Resources/Notes & Articles/Make your 2d6 Random Encounter Tables WAY BETTER.md",
+    "TTRPG/Resources/Notes & Articles/D&D HexCrawls! How To Do Exploration RIGHT!.md",
     "LIFE_SKILLS/First Aid Kit Hiking.md",
     "TECHNICAL/GRAPH/GraphDB crash-course.md",
     "NON_TECHNICAL_WORK/ARTICLES/Who’s Got the Monkey.md",
