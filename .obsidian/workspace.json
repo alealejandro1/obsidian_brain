@@ -11,8 +11,12 @@
             "id": "76dbf04b6ed54098",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "TTRPG/LOTR_sample/locations/Lothlorien.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TTRPG/LOTR_sample/locations/Lothlorien.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TTRPG/LOTR_sample/locations/Lothlorien.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TTRPG/LOTR_sample/locations/Lothlorien.md"
+              }
             }
           },
           {
@@ -138,23 +146,23 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "aef0ec7564cd9b75",
+  "active": "76dbf04b6ed54098",
   "lastOpenFiles": [
+    "TTRPG/LOTR_sample/management/Characters.md",
+    "TTRPG/LOTR_sample/management/Table of monsters.md",
+    "TTRPG/Resources/TTRPG Notes & Articles Dataview.md",
+    "TOURISM/Cities Visited.md",
+    "TECHNICAL/OBSIDIAN/Dataview guide.md",
     "TTRPG/Resources/Notes & Articles/D&D HexCrawls! How To Do Exploration RIGHT!.md",
     "TTRPG/Resources/Notes & Articles/Make your 2d6 Random Encounter Tables WAY BETTER.md",
-    "TTRPG/Resources/TTRPG Notes & Articles Dataview.md",
     "LIFE_SKILLS/First Aid Kit Hiking.md",
     "TECHNICAL/GRAPH/GraphDB crash-course.md",
-    "NON_TECHNICAL_WORK/ARTICLES/Who’s Got the Monkey.md",
-    "TECHNICAL/GRAPH/The Practitioner's Guide to Graph Data - notes.md",
-    "TOURISM/Cities Visited.md",
-    "TOURISM/TOURISM NOTES/Wellington.md",
-    "TECHNICAL/OBSIDIAN/Templates/Tourism Note Template.md"
+    "NON_TECHNICAL_WORK/ARTICLES/Who’s Got the Monkey.md"
   ]
 }
