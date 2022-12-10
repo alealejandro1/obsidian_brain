@@ -8,5 +8,5 @@ Good points on what can go wrong when making decisions using models (e.g. predic
 bad_about_book::{Very focused on reinforcement learning 
 Historical approach is fun to follow, but not the way to learn}
 my_score::4
-keywords:: deep learning, reinforcement learning, psychology
+keywords:: [[deep learning]], reinforcement learning, psychology
 reminded_me_of::

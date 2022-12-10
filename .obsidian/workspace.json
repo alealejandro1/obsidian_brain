@@ -25,14 +25,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG/Resources/Notes & Articles/Make your 2d6 Random Encounter Tables WAY BETTER.md",
+                "file": "MOVIES_BOOKS_ART/Books/Close to the machine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c83b1265ec2b0eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FINANCE/Investing your own money for the long run.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19c96cc573929177",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FINANCE/ARTICLES/For investing newbs a simple way to consider financial instruments.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dc3a33612129e737",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FINANCE/ARTICLES/For investing newbs a simple way to consider financial instruments.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "085d3cfbd4452e85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MOVIES_BOOKS_ART/Books/Work Clean.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -98,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TTRPG/Resources/Notes & Articles/Make your 2d6 Random Encounter Tables WAY BETTER.md",
+                "file": "FINANCE/ARTICLES/For investing newbs a simple way to consider financial instruments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TTRPG/Resources/Notes & Articles/Make your 2d6 Random Encounter Tables WAY BETTER.md",
+                "file": "FINANCE/ARTICLES/For investing newbs a simple way to consider financial instruments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TTRPG/Resources/Notes & Articles/Make your 2d6 Random Encounter Tables WAY BETTER.md"
+                "file": "FINANCE/ARTICLES/For investing newbs a simple way to consider financial instruments.md"
               }
             }
           },
@@ -165,17 +213,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "126a21d594b0ed42",
+  "active": "dc3a33612129e737",
   "lastOpenFiles": [
-    "TTRPG/Resources/TTRPG Notes & Articles Dataview.md",
-    "TTRPG/LOTR_sample/management/Table of monsters.md",
-    "TTRPG/LOTR_sample/management/Characters.md",
-    "TTRPG/LOTR_sample/locations/Lothlorien.md",
-    "TTRPG/LOTR_sample/locations/Elven Foundry.md",
-    "TOURISM/Cities Visited.md",
-    "TOURISM/TOURISM NOTES/Wellington.md",
-    "TOURISM/TOURISM NOTES/Bali.md",
-    "TTRPG/LOTR_sample/locations/Lothloriens diner.md",
-    "TTRPG/LOTR_sample/locations/attachments/Pasted image 20221210154445.png"
+    "FINANCE/ARTICLES/Liquidity.md",
+    "FINANCE/ARTICLES/For investing newbs a simple way to consider financial instruments.md",
+    "FINANCE/Investing your own money for the long run.md",
+    "FINANCE/Magic Triangle of Investing.md",
+    "FINANCE/ARTICLES/attachments/Pasted image 20221211031341.png",
+    "MOVIES_BOOKS_ART/Books/Close to the machine.md",
+    "MOVIES_BOOKS_ART/Books/Work Clean.md",
+    "MOVIES_BOOKS_ART/Books/The Alignment Problem.md",
+    "MOVIES_BOOKS_ART/Book Dataview.md",
+    "TTRPG/Resources/Notes & Articles/Make your 2d6 Random Encounter Tables WAY BETTER.md"
   ]
 }

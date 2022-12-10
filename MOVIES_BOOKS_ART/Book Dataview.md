@@ -1,7 +1,7 @@
 # Non-Fiction Books I've read
 
 ```dataview
-table title as "Title", read_when as "Date of Reading", my_score as "Rating"
+table my_score as "Rating", keywords as "Key Words"
 where contains(type_book,"Non-Fiction") and contains(read_when,null) = False
 and contains(asset_type,"Book")
 sort read_when DESC

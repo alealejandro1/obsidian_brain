@@ -19,15 +19,15 @@ note_created_on::2022-12-09
 
 ## Example of the d666 table
 
-| encounter | behavior             | complication   |
-| --------- | -------------------- | -------------- |
-| Troll     | Hiding               |                |
-| Orc       | Cooking              | Chased by Bees |
-| Wolves    | Setting Traps        | Injured        |
-| Hunters   | Digging a grave      | Tangled Rope   |
-| Patrol    | Sleeping by the tree | Hungry         |
-| Goblins   | Hunting Prey         | Broken Gear    |
-| Wyvern    | Eating               | Sick Young     |
+| encounter | behavior             | complication                   |
+| --------- | -------------------- | ------------------------------ |
+| Troll     | Hiding               | Running from another encounter |
+| Orc       | Cooking              | Chased by Bees                 |
+| Wolves    | Setting Traps        | Injured                        |
+| Hunters   | Digging a grave      | Tangled Rope                   |
+| Patrol    | Sleeping by the tree | Hungry                         |
+| Goblins   | Hunting Prey         | Broken Gear                    |
+| Wyvern    | Eating               | Sick Young                     |
 ^d666tablegeneric
 
 Roll 3 d6 to get a random encounter that has something going on:
