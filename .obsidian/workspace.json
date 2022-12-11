@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FINANCE/ARTICLES/For investing newbs a simple way to consider financial instruments.md",
+                "file": "TOURISM/Cities Visited.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2fd6b0e9f80d7a65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FINANCE/Bonds.md",
                 "mode": "source",
                 "source": false
               }
@@ -21,6 +33,18 @@
           },
           {
             "id": "28de3b5f807b675f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FINANCE/Finance Tables Repository.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54e14fdaf5af8f23",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FINANCE/Finance Tables Repository.md",
+                "file": "FINANCE/Bonds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FINANCE/Finance Tables Repository.md",
+                "file": "FINANCE/Bonds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FINANCE/Finance Tables Repository.md"
+                "file": "FINANCE/Bonds.md"
               }
             }
           },
@@ -166,17 +190,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "28de3b5f807b675f",
+  "active": "aef0ec7564cd9b75",
   "lastOpenFiles": [
+    "FINANCE/Finance Tables Repository.md",
     "FINANCE/ARTICLES/For investing newbs a simple way to consider financial instruments.md",
-    "FINANCE/Net Worth Calculation.md",
-    "FINANCE/Magic Triangle of Investing.md",
-    "FINANCE/Liquidity.md",
-    "FINANCE/Investing your own money for the long run.md",
-    "FINANCE/Net Worth.md",
+    "FINANCE/Bonds.md",
+    "NON_TECHNICAL_WORK/ARTICLES/Want to write for money. Here’s what you need to know.md",
+    "TOURISM/Cities Visited.md",
+    "MOVIES_BOOKS_ART/Book Dataview.md",
+    "NON_TECHNICAL_WORK/Articles Dataview.md",
+    "NON_TECHNICAL_WORK/Talking for a living.md",
     "TTRPG/Resources/TTRPG Notes & Articles Dataview.md",
-    "TTRPG/Resources/Notes & Articles/Make your 2d6 Random Encounter Tables WAY BETTER.md",
-    "TTRPG/Resources/Notes & Articles/Brain Attic.md",
-    "TTRPG/Resources/Notes & Articles/Escaping the endless cycle of noobery.md"
+    "FINANCE/Magic Triangle of Investing.md"
   ]
 }

@@ -1,3 +1,6 @@
+#SummaryTable
+# Net Worth
 ![[Net Worth Calculation]]
 
-![[Inve]]
+# Types of Investments
+![[For investing newbs a simple way to consider financial instruments#^TableOfInvestments]]

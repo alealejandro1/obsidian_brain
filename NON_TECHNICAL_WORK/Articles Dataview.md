@@ -1,3 +1,4 @@
+#SummaryTable 
 # Non-Technical Work related Articles
 ```dataview
 table title as "Title", year_posted as "Year Posted", my_rating as "Rating"

@@ -1,3 +1,4 @@
+#SummaryTable 
 ```dataview
 table title as "City", country as "Country", keywords as "Keywords"
 from "TOURISM"

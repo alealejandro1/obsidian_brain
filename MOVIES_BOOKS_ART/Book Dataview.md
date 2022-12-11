@@ -1,3 +1,4 @@
+#SummaryTable 
 # Non-Fiction Books I've read
 
 ```dataview

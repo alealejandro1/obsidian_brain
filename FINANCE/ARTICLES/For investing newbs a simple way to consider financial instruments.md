@@ -10,16 +10,20 @@ read_when::2022-12-11
 note_created_on::2022-12-11
 
 I made this table based on the article:
-| Service                                                       | Liquidity   | Payoff      | Risk   |
-| ------------------------------------------------------------- | ----------- | ----------- | ------ |
-| [[Roboadvisors]]: Cash management accounts/Money market funds | High        | 1.5% - 2.8% | Low    |
-| High-yield savings account                                    | High        | 1-3%        | Low    |
-| CPF Special Account                                           | Low         | 4%          | Low    |
-| Long Term Endowment                                           | Low         | 3-5%        | Medium |
-| [[Stocks]]                                                    | Medium-High | anything    | High   |
-| [[Unit Trusts]]                                               | Medium      | < Stocks    | Med       |
-| [[ETFs]]                                                      | Medium      | < Stocks    | Med       |
+
+
+| Service                                                         | Liquidity   | Payoff      | Risk   |
+| --------------------------------------------------------------- | ----------- | ----------- | ------ |
+| [[Roboadvisors]]: Cash management accounts/Money market funds   | High        | 1.5% - 2.8% | Low    |
+| High-yield savings account                                      | High        | 1-3%        | Low    |
+| CPF Special Account                                             | Low         | 4%          | Low    |
+| Long Term Endowment                                             | Low         | 3-5%        | Medium |
+| [[Stocks]]                                                      | Medium-High | anything    | High   |
+| [[Unit Trusts]]                                                 | Medium      | < Stocks    | Med    |
+| [[ETFs]]                                                        | Medium      | < Stocks    | Med    |
+| [[Bonds]]                         (usually cannot buy directly) | Low-Medium  | < ETFs      | Low    |
 ^TableOfInvestments
+
 
 -----
 
