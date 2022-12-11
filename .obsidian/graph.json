@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
-  "search": "line:(Article)",
-  "showTags": true,
+  "search": "path:FINANCE",
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
