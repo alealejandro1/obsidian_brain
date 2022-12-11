@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d4d00ff417dd5428",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MISC/Double Machine Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MISC/John Soh - GovTech interview Dec2022.md",
+                "file": "MISC/Double Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MISC/John Soh - GovTech interview Dec2022.md",
+                "file": "MISC/Double Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MISC/John Soh - GovTech interview Dec2022.md"
+                "file": "MISC/Double Machine Learning.md"
               }
             }
           },
@@ -166,10 +178,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "47fb346bcafe48f4",
+  "active": "d4d00ff417dd5428",
   "lastOpenFiles": [
-    "TECHNICAL/ML/Locality-sensitive hashing.md",
     "MISC/John Soh - GovTech interview Dec2022.md",
+    "TECHNICAL/ML/Locality-sensitive hashing.md",
     "TECHNICAL/Untitled.md",
     "FINANCE/ARTICLES/For investing newbs a simple way to consider financial instruments.md",
     "FINANCE/Liquidity.md",
