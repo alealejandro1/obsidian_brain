@@ -21,7 +21,6 @@ I made this table based on the article:
 | [[ETFs]]                                                      | Medium      | < Stocks    | Med       |
 ^TableOfInvestments
 
-
 -----
 
 ![[Magic Triangle of Investing]]

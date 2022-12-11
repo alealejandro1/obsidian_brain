@@ -48,7 +48,7 @@
     },
     {
       "id": "leaflet-cities-visited",
-      "lastAccessed": 1670712950027,
+      "lastAccessed": 1670719112235,
       "markers": [
         {
           "id": "ID_08099918e8fa",
@@ -112,7 +112,7 @@
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",
-    "color": "#dddddd",
+    "color": "#9ccb1a",
     "transform": {
       "size": 6,
       "x": 0,
