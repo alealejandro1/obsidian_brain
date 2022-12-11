@@ -68,6 +68,30 @@
             }
           },
           {
+            "id": "e604b88453a1ed37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FINANCE/ARTICLES/For investing newbs a simple way to consider financial instruments.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c94fdecd721e1c88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FINANCE/Net Worth.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "085d3cfbd4452e85",
             "type": "leaf",
             "state": {
@@ -80,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -146,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FINANCE/ARTICLES/For investing newbs a simple way to consider financial instruments.md",
+                "file": "FINANCE/Net Worth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FINANCE/ARTICLES/For investing newbs a simple way to consider financial instruments.md",
+                "file": "FINANCE/Net Worth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FINANCE/ARTICLES/For investing newbs a simple way to consider financial instruments.md"
+                "file": "FINANCE/Net Worth.md"
               }
             }
           },
@@ -211,20 +235,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "dc3a33612129e737",
+  "active": "c94fdecd721e1c88",
   "lastOpenFiles": [
-    "FINANCE/ARTICLES/Liquidity.md",
     "FINANCE/ARTICLES/For investing newbs a simple way to consider financial instruments.md",
+    "FINANCE/Liquidity.md",
+    "TTRPG/Resources/TTRPG Notes & Articles Dataview.md",
+    "TTRPG/Resources/Notes & Articles/Escaping the endless cycle of noobery.md",
     "FINANCE/Investing your own money for the long run.md",
     "FINANCE/Magic Triangle of Investing.md",
     "FINANCE/ARTICLES/attachments/Pasted image 20221211031341.png",
     "MOVIES_BOOKS_ART/Books/Close to the machine.md",
     "MOVIES_BOOKS_ART/Books/Work Clean.md",
-    "MOVIES_BOOKS_ART/Books/The Alignment Problem.md",
-    "MOVIES_BOOKS_ART/Book Dataview.md",
-    "TTRPG/Resources/Notes & Articles/Make your 2d6 Random Encounter Tables WAY BETTER.md"
+    "MOVIES_BOOKS_ART/Books/The Alignment Problem.md"
   ]
 }
