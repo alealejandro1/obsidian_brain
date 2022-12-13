@@ -46,7 +46,7 @@ Propensity Score Overlap: Good way to understand what's on the ground??
 
 Mention's Bala's curve as feature engineering
 
-Lots of big words, but I feel like some explanations don't really answer question. Part Art/Part Science.
+Lots of big words, but I feel like some explanations don't really answer question. Part Art/Part Science. 
 
 Meta learner vs Double Machine Learning? Asked by Victor. Difference in Differences, but issues depend on linear dependence of variables.
 
