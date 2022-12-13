@@ -1,3 +1,4 @@
+article_type:: SQL
 keywords:: [[Commit]], [[rollback]], sequential statements
 summary:: Sequential statements that succeed or fail as one. Can [[commit]] or [[rollback]].
 

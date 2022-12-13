@@ -13,19 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TECHNICAL/SQL/Rollback.md",
+                "file": "TECHNICAL/SQL/Constraint.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6b3a33f24e4c633f",
+            "id": "e7ff3bd2eaf9ff6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TECHNICAL/OBSIDIAN/Templates/Article Template.md",
+                "file": "TECHNICAL/Dataview of TECHNICAL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7fa59e38378b8d3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TECHNICAL/SQL/Transactional SQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8db91b114f4c373e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TECHNICAL/SQL/Foreign Key.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TECHNICAL/OBSIDIAN/Templates/SQL template.md",
+                "file": "TECHNICAL/SQL/Foreign Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TECHNICAL/OBSIDIAN/Templates/SQL template.md",
+                "file": "TECHNICAL/SQL/Foreign Key.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TECHNICAL/OBSIDIAN/Templates/SQL template.md"
+                "file": "TECHNICAL/SQL/Foreign Key.md"
               }
             }
           },
@@ -178,17 +202,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5860b7d98819c728",
+  "active": "8db91b114f4c373e",
   "lastOpenFiles": [
-    "TECHNICAL/OBSIDIAN/Templates/TTRPG_asset Template.md",
-    "TECHNICAL/OBSIDIAN/Templates/SQL template.md",
-    "TECHNICAL/OBSIDIAN/Templates/Article Template.md",
-    "TECHNICAL/SQL/Constraints.md",
-    "TECHNICAL/SQL/Rollback.md",
+    "TECHNICAL/SQL/Constraint.md",
+    "TECHNICAL/SQL/Primary Key.md",
+    "TECHNICAL/SQL/Foreign Key.md",
     "TECHNICAL/SQL/Transactional SQL.md",
-    "NON_TECHNICAL_WORK/Articles Dataview.md",
-    "NON_TECHNICAL_WORK/Talking for a living.md",
-    "FINANCE/Finance Tables Repository.md",
-    "MOVIES_BOOKS_ART/Book Dataview.md"
+    "TECHNICAL/Dataview of TECHNICAL.md",
+    "TECHNICAL/SQL/Rollback.md",
+    "TECHNICAL/OBSIDIAN/Templates/SQL template.md",
+    "TECHNICAL/OBSIDIAN/Templates/TTRPG_asset Template.md",
+    "TECHNICAL/OBSIDIAN/Templates/Article Template.md",
+    "NON_TECHNICAL_WORK/Articles Dataview.md"
   ]
 }

@@ -19,7 +19,7 @@ sort ASC
 ```
 # SQL
 ```dataview
-table keywords as "Keywords"
+table summary as "Summary", keywords as "Keywords"
 from "TECHNICAL/SQL"
 sort ASC
 ```

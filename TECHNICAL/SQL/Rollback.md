@@ -1,3 +1,4 @@
+article_type:: SQL
 summary:: Control transactions before they are commited. After commiting, rollback is useless.
 keywords:: Transactions, Commit, [[Transaction Control Language]]
 
