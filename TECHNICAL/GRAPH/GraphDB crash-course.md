@@ -1,3 +1,5 @@
+keywords:: Graph, Course Syllabus, Teaching Graphs Databases
+
 Syllabus:
 **
 1.  Complex Systems

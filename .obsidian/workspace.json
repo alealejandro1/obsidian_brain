@@ -25,19 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MISC/John Soh - GovTech interview Dec2022.md",
+                "file": "TECHNICAL/ML/Locality-sensitive hashing.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c79ac251feccdb8c",
+            "id": "eb217700d410aa08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MISC/covariates.md",
+                "file": "TECHNICAL/Dataview of folders.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MISC/Double Machine Learning.md",
+                "file": "TECHNICAL/ML/Double Machine Learning.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "cb54298f2a66163a",
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MISC/John Soh - GovTech interview Dec2022.md",
+                "file": "TECHNICAL/Dataview of folders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MISC/John Soh - GovTech interview Dec2022.md",
+                "file": "TECHNICAL/Dataview of folders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MISC/John Soh - GovTech interview Dec2022.md"
+                "file": "TECHNICAL/Dataview of folders.md"
               }
             }
           },
@@ -191,17 +190,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "47fb346bcafe48f4",
+  "active": "eb217700d410aa08",
   "lastOpenFiles": [
-    "MISC/Double Machine Learning.md",
-    "MISC/John Soh - GovTech interview Dec2022.md",
-    "MISC/covariates.md",
     "TECHNICAL/ML/Locality-sensitive hashing.md",
-    "TECHNICAL/Untitled.md",
+    "TECHNICAL/ML/Double Machine Learning.md",
+    "TECHNICAL/GRAPH/GraphDB crash-course.md",
+    "TECHNICAL/GRAPH/The Practitioner's Guide to Graph Data - notes.md",
+    "MISC/John Soh - GovTech interview Dec2022.md",
+    "TECHNICAL/STATISTICS/covariates.md",
+    "TECHNICAL/Dataview of folders.md",
     "FINANCE/ARTICLES/For investing newbs a simple way to consider financial instruments.md",
     "FINANCE/Liquidity.md",
-    "FINANCE/Magic Triangle of Investing.md",
-    "FINANCE/Finance Tables Repository.md",
-    "FINANCE/Bonds.md"
+    "FINANCE/Magic Triangle of Investing.md"
   ]
 }
