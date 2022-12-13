@@ -1,4 +1,4 @@
-keywords:: Graph, Course Syllabus, Teaching Graphs Databases
+keywords:: [[Graph]], Course Syllabus, Teaching Graphs Databases
 
 Syllabus:
 **

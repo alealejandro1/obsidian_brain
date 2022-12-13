@@ -8,48 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6fab242ba2b54b8e",
+            "id": "23341e849a125ece",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TECHNICAL/ML/Locality-sensitive hashing.md",
+                "file": "TECHNICAL/SQL/Rollback.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "47fb346bcafe48f4",
+            "id": "6b3a33f24e4c633f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TECHNICAL/ML/Locality-sensitive hashing.md",
+                "file": "TECHNICAL/OBSIDIAN/Templates/Article Template.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "eb217700d410aa08",
+            "id": "5860b7d98819c728",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TECHNICAL/Dataview of folders.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d4d00ff417dd5428",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TECHNICAL/ML/Double Machine Learning.md",
+                "file": "TECHNICAL/OBSIDIAN/Templates/SQL template.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TECHNICAL/Dataview of folders.md",
+                "file": "TECHNICAL/OBSIDIAN/Templates/SQL template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TECHNICAL/Dataview of folders.md",
+                "file": "TECHNICAL/OBSIDIAN/Templates/SQL template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TECHNICAL/Dataview of folders.md"
+                "file": "TECHNICAL/OBSIDIAN/Templates/SQL template.md"
               }
             }
           },
@@ -190,17 +178,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "eb217700d410aa08",
+  "active": "5860b7d98819c728",
   "lastOpenFiles": [
-    "TECHNICAL/ML/Locality-sensitive hashing.md",
-    "TECHNICAL/ML/Double Machine Learning.md",
-    "TECHNICAL/GRAPH/GraphDB crash-course.md",
-    "TECHNICAL/GRAPH/The Practitioner's Guide to Graph Data - notes.md",
-    "MISC/John Soh - GovTech interview Dec2022.md",
-    "TECHNICAL/STATISTICS/covariates.md",
-    "TECHNICAL/Dataview of folders.md",
-    "FINANCE/ARTICLES/For investing newbs a simple way to consider financial instruments.md",
-    "FINANCE/Liquidity.md",
-    "FINANCE/Magic Triangle of Investing.md"
+    "TECHNICAL/OBSIDIAN/Templates/TTRPG_asset Template.md",
+    "TECHNICAL/OBSIDIAN/Templates/SQL template.md",
+    "TECHNICAL/OBSIDIAN/Templates/Article Template.md",
+    "TECHNICAL/SQL/Constraints.md",
+    "TECHNICAL/SQL/Rollback.md",
+    "TECHNICAL/SQL/Transactional SQL.md",
+    "NON_TECHNICAL_WORK/Articles Dataview.md",
+    "NON_TECHNICAL_WORK/Talking for a living.md",
+    "FINANCE/Finance Tables Repository.md",
+    "MOVIES_BOOKS_ART/Book Dataview.md"
   ]
 }
