@@ -26,3 +26,21 @@ Seems to be strong on statistics, at least usign correct terms. Mentions a lot
 Aspiring to Leadership position (Team lead)
 
 Presentation of Section 2 : 
+Preference on iterative approach:
+First: use commonly well known approaches that are simple.
+
+Note: He tallks about avoiding "detours" regarding domain knowledge and assumptions of the data.
+
+No Hidden Confounders: "Exchangibility assumption" said by econometrics?
+No reverse causation: Safe to assume that the following is not likely "because HDB price change, LTA decides to build expressway"
+
+Contextualized results in term of user perspective (as a buyer of HDB flat), how much money is extra to pay for distance to Expressway. Mention other things that people will pay extra to be near/far something like school.
+
+Explained Counterfactual as: take note of prices of HDB, then go back in time to knock-down expressway and wait for time to pass and measure new price
+ --> measure difference of effect. 
+
+OLS: Good enough to know if you are directionally correct, but not good enough to be reliant on this
+DoubleMachine Learning: 
+
+
+
