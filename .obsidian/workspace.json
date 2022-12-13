@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "c79ac251feccdb8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MISC/covariates.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d4d00ff417dd5428",
             "type": "leaf",
             "state": {
@@ -181,15 +193,15 @@
   },
   "active": "47fb346bcafe48f4",
   "lastOpenFiles": [
-    "MISC/Double Machine Learning.md",
+    "MISC/covariates.md",
     "MISC/John Soh - GovTech interview Dec2022.md",
+    "MISC/Double Machine Learning.md",
     "TECHNICAL/ML/Locality-sensitive hashing.md",
     "TECHNICAL/Untitled.md",
     "FINANCE/ARTICLES/For investing newbs a simple way to consider financial instruments.md",
     "FINANCE/Liquidity.md",
     "FINANCE/Magic Triangle of Investing.md",
     "FINANCE/Finance Tables Repository.md",
-    "FINANCE/Bonds.md",
-    "TOURISM/Cities Visited.md"
+    "FINANCE/Bonds.md"
   ]
 }

@@ -4,7 +4,7 @@ General Questions:
 ML Questions:
 * In Resume > Marketing Optimization Science: Mentions [[Locality-sensitive hashing]], for high dimensional unsupervised clustering. Can you share how LSH works? why LSH?
 * [[Double Machine Learning]] is used to solve the HDB effect on noise by highway.
-
+* In FAQ of readme, he says : "Rich and deep trove of data available for modelling but no time" -> some examples?
 
 # John's Readme:
 John prepared in addition the very bare "business slides" a 2 page readme document aimed at technical folks. I think the readme file contains a great summary of the datascience followed. The structure is as follows:
@@ -20,3 +20,9 @@ John prepared in addition the very bare "business slides" a 2 page readme docume
 	* *What is your top shortcoming and how do you intend to adress it?*
 
 # John's observation during interview
+Seems to be strong on statistics, at least usign correct terms. Mentions a lot
+[[covariates]] 
+
+Aspiring to Leadership position (Team lead)
+
+Presentation of Section 2 : 
