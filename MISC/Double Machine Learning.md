@@ -10,3 +10,7 @@ The method reduces the problem to first estimating _two predictive tasks_:
 >     
 > 2.  predicting the treatment from the controls;
 
+
+Overcoming selection bias?
+Having independent residuals?
+OLS assumes dependency of covariates is linear?
