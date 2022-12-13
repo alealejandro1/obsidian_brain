@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cb54298f2a66163a",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MISC/Double Machine Learning.md",
+                "file": "MISC/John Soh - GovTech interview Dec2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MISC/Double Machine Learning.md",
+                "file": "MISC/John Soh - GovTech interview Dec2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MISC/Double Machine Learning.md"
+                "file": "MISC/John Soh - GovTech interview Dec2022.md"
               }
             }
           },
@@ -178,8 +179,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d4d00ff417dd5428",
+  "active": "47fb346bcafe48f4",
   "lastOpenFiles": [
+    "MISC/Double Machine Learning.md",
     "MISC/John Soh - GovTech interview Dec2022.md",
     "TECHNICAL/ML/Locality-sensitive hashing.md",
     "TECHNICAL/Untitled.md",
@@ -188,7 +190,6 @@
     "FINANCE/Magic Triangle of Investing.md",
     "FINANCE/Finance Tables Repository.md",
     "FINANCE/Bonds.md",
-    "TOURISM/Cities Visited.md",
-    "NON_TECHNICAL_WORK/ARTICLES/Want to write for money. Here’s what you need to know.md"
+    "TOURISM/Cities Visited.md"
   ]
 }
