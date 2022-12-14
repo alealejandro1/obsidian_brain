@@ -42,9 +42,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ff7fa7e6f029be4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TECHNICAL/SQL/SQL View.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83e70eb6887eb570",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TECHNICAL/SQL/Normalization and Denormalization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TECHNICAL/SQL/Cursor.md",
+                "file": "TECHNICAL/SQL/Normalization and Denormalization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TECHNICAL/SQL/Cursor.md",
+                "file": "TECHNICAL/SQL/Normalization and Denormalization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TECHNICAL/SQL/Cursor.md"
+                "file": "TECHNICAL/SQL/Normalization and Denormalization.md"
               }
             }
           },
@@ -178,17 +202,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a485a8b62bf52329",
+  "active": "83e70eb6887eb570",
   "lastOpenFiles": [
+    "TECHNICAL/SQL/SQL View.md",
     "TECHNICAL/SQL/Types of Subquery.md",
-    "TECHNICAL/Dataview of TECHNICAL.md",
+    "TECHNICAL/SQL/Cursor.md",
+    "TECHNICAL/SQL/Rollback.md",
     "TECHNICAL/SQL/SQL Index.md",
+    "TECHNICAL/Dataview of TECHNICAL.md",
     "TECHNICAL/SQL/Types of SQL JOINS.md",
     "TECHNICAL/SQL/Constraint.md",
     "TECHNICAL/SQL/Primary Key.md",
-    "TECHNICAL/SQL/Foreign Key.md",
-    "TECHNICAL/SQL/Transactional SQL.md",
-    "TECHNICAL/SQL/Rollback.md",
-    "TECHNICAL/OBSIDIAN/Templates/SQL template.md"
+    "TECHNICAL/SQL/Foreign Key.md"
   ]
 }
