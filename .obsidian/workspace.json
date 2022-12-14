@@ -19,12 +19,28 @@
             "id": "398e41a7e63c6213",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "TTRPG/Mighty-Four-D&D-5e/Sessions/S1-20221201 A rescue from the temple of Tyranthraxus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b6c2a7ff232164b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TOURISM/TOURISM NOTES/El Calafate.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TOURISM/TOURISM NOTES/El Calafate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TOURISM/TOURISM NOTES/El Calafate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TOURISM/TOURISM NOTES/El Calafate.md"
+              }
             }
           },
           {
@@ -154,16 +174,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "aef0ec7564cd9b75",
+  "active": "b6c2a7ff232164b1",
   "lastOpenFiles": [
+    "TTRPG/Mighty-Four-D&D-5e/Sessions/S1-20221201 A rescue from the temple of Tyranthraxus.md",
+    "Lucia.md",
     "DELETE/Laguna Del Terror.md",
     "DELETE/Capitulo 1.md",
     "MOVIES_BOOKS_ART/Book Dataview.md",
     "MOVIES_BOOKS_ART/Books/The Alignment Problem.md",
     "NON_TECHNICAL_WORK/Articles Dataview.md",
     "DELETE/Pepe.md",
-    "Lucia.md",
-    "TTRPG/Mighty-Four-D&D-5e/Sessions/S1-20221201 A rescue from the temple of Tyranthraxus.md",
     "TECHNICAL/OBSIDIAN/Templates/SQL template.md",
     "TECHNICAL/SQL/Types of Subquery.md"
   ]
