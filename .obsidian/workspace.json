@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "31a50c7acca18f23",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "398e41a7e63c6213",
             "type": "leaf",
             "state": {
@@ -34,6 +26,30 @@
               "type": "markdown",
               "state": {
                 "file": "TOURISM/TOURISM NOTES/El Calafate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "40ec7c01f83d3d43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FINANCE/Finance Tables Repository.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66d8543f1e763699",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FINANCE/ENBRIDGE (ENB).md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOURISM/TOURISM NOTES/El Calafate.md",
+                "file": "FINANCE/Finance Tables Repository.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOURISM/TOURISM NOTES/El Calafate.md",
+                "file": "FINANCE/Finance Tables Repository.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOURISM/TOURISM NOTES/El Calafate.md"
+                "file": "FINANCE/Finance Tables Repository.md"
               }
             }
           },
@@ -174,17 +190,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b6c2a7ff232164b1",
+  "active": "40ec7c01f83d3d43",
   "lastOpenFiles": [
+    "FINANCE/ENBRIDGE (ENB).md",
     "TTRPG/Mighty-Four-D&D-5e/Sessions/S1-20221201 A rescue from the temple of Tyranthraxus.md",
+    "FINANCE/Finance Tables Repository.md",
+    "FINANCE/Net Worth Calculation.md",
+    "FINANCE/Magic Triangle of Investing.md",
+    "FINANCE/Liquidity.md",
+    "TOURISM/TOURISM NOTES/El Calafate.md",
     "Lucia.md",
     "DELETE/Laguna Del Terror.md",
-    "DELETE/Capitulo 1.md",
-    "MOVIES_BOOKS_ART/Book Dataview.md",
-    "MOVIES_BOOKS_ART/Books/The Alignment Problem.md",
-    "NON_TECHNICAL_WORK/Articles Dataview.md",
-    "DELETE/Pepe.md",
-    "TECHNICAL/OBSIDIAN/Templates/SQL template.md",
-    "TECHNICAL/SQL/Types of Subquery.md"
+    "DELETE/Capitulo 1.md"
   ]
 }
