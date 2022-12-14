@@ -37,26 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FINANCE/Finance Tables Repository.md",
+                "file": "FINANCE/ENBRIDGE (ENB).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "66d8543f1e763699",
+            "id": "3737022118a4afed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FINANCE/ENBRIDGE (ENB).md",
+                "file": "FINANCE/Finance Tables Repository.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -190,17 +190,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "40ec7c01f83d3d43",
+  "active": "3737022118a4afed",
   "lastOpenFiles": [
     "FINANCE/ENBRIDGE (ENB).md",
-    "TTRPG/Mighty-Four-D&D-5e/Sessions/S1-20221201 A rescue from the temple of Tyranthraxus.md",
     "FINANCE/Finance Tables Repository.md",
-    "FINANCE/Net Worth Calculation.md",
-    "FINANCE/Magic Triangle of Investing.md",
+    "FINANCE/EVGO.md",
+    "FINANCE/Dividends.md",
     "FINANCE/Liquidity.md",
-    "TOURISM/TOURISM NOTES/El Calafate.md",
-    "Lucia.md",
-    "DELETE/Laguna Del Terror.md",
-    "DELETE/Capitulo 1.md"
+    "FINANCE/Magic Triangle of Investing.md",
+    "FINANCE/Net Worth Calculation.md",
+    "FINANCE/Bonds.md",
+    "TTRPG/Mighty-Four-D&D-5e/Sessions/S1-20221201 A rescue from the temple of Tyranthraxus.md",
+    "TOURISM/TOURISM NOTES/El Calafate.md"
   ]
 }

@@ -8,6 +8,6 @@
 ```dataview
 table summary as "Summary"
 from "FINANCE"
-where contains(note_type,"Stock")
+where contains(note_type,[[Stocks]])
 sort ASC
 ```
