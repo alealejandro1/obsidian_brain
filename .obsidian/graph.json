@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:TECHNICAL/SQL",
+  "search": "SQL",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -46,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.710718399317069,
+  "scale": 1.3541614725704911,
   "close": false
 }
