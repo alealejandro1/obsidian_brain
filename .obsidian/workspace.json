@@ -11,36 +11,20 @@
             "id": "31a50c7acca18f23",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DELETE/Capitulo 1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "398e41a7e63c6213",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lucia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b7645738c356d04",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,7 +154,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0b7645738c356d04",
+  "active": "aef0ec7564cd9b75",
   "lastOpenFiles": [
     "DELETE/Laguna Del Terror.md",
     "DELETE/Capitulo 1.md",
