@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL Index.md",
+                "file": "TECHNICAL/SQL/SQL Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e21be8b32962376a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TECHNICAL/SQL/Types of Subquery.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL Index.md",
+                "file": "TECHNICAL/SQL/Types of Subquery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL Index.md",
+                "file": "TECHNICAL/SQL/Types of Subquery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL Index.md"
+                "file": "TECHNICAL/SQL/Types of Subquery.md"
               }
             }
           },
@@ -166,17 +178,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "482df542ae6d17d8",
+  "active": "e21be8b32962376a",
   "lastOpenFiles": [
+    "TECHNICAL/SQL/SQL Index.md",
     "TECHNICAL/SQL/Types of SQL JOINS.md",
-    "TECHNICAL/SQL/Untitled.md",
+    "TECHNICAL/SQL/Types of Subquery.md",
     "TECHNICAL/Dataview of TECHNICAL.md",
     "TECHNICAL/SQL/Constraint.md",
     "TECHNICAL/SQL/Primary Key.md",
     "TECHNICAL/SQL/Foreign Key.md",
     "TECHNICAL/SQL/Transactional SQL.md",
     "TECHNICAL/SQL/Rollback.md",
-    "TECHNICAL/OBSIDIAN/Templates/SQL template.md",
-    "TECHNICAL/OBSIDIAN/Templates/TTRPG_asset Template.md"
+    "TECHNICAL/OBSIDIAN/Templates/SQL template.md"
   ]
 }
