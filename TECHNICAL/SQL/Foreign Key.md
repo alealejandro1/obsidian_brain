@@ -1,4 +1,4 @@
-article_type:: SQL
+article_type:: [[SQL]]
 summary:: Maintains integrity of a DB, referencing tables with reference options such as CASCADE or RESTRICT
 keywords:: [[Constraint]], Integrity, CASCADE, SET NULL, RESTRICT
 

@@ -1,4 +1,4 @@
-article_type:: SQL
+article_type:: [[SQL]]
 summary:: Non-Unique indeces used to faster read, but slower write. Clustered indeces can be organised like the data itself.
 keywords:: Non-Unique Index, [[B-Tree]], Read Fast, Write Slow, Optimization
 

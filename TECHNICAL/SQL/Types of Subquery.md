@@ -1,4 +1,4 @@
-article_type:: SQL
+article_type:: [[SQL]]
 summary:: Inner query is independent of outer query in Nested, whereas both are dependent on Correlated Query.
 keywords:: Correlated Query, Nested Query, Inner Query, Outer Query
 

@@ -1,4 +1,4 @@
-article_type:: SQL
+article_type:: [[SQL]]
 summary:: A view is a virtual table, it is the result of a SQL query. You can run queries on views as if they are tables. 
 keywords:: Virtual Table, Security, Reusability
 

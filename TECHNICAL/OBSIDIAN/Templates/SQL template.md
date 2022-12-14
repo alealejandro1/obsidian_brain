@@ -1,3 +1,3 @@
-article_type:: SQL
+article_type:: [[SQL]]
 summary::
 keywords::

@@ -1,4 +1,4 @@
-article_type:: SQL
+article_type:: [[SQL]]
 summary:: A [[Constraint]] for a column that will only accept NOT NULL UNIQUE data, used to link tables
 keywords:: [[SQL Index]], UNIQUE, NOT NULL data, used to link tables
 

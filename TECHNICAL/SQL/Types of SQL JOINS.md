@@ -1,4 +1,4 @@
-article_type:: SQL
+article_type:: [[SQL]]
 summary:: Joining two tables based on their similarities
 keywords:: INNER JOIN, LEFT JOIN, FULL OUTER JOIN, CROSS JOIN
 
