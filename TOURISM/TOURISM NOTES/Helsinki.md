@@ -3,6 +3,7 @@ title::Helsinki
 country::[[Finland]]
 keywords:: White Night, Expensive, Beautiful, Credit Card everywhere
 note_created::2022-12-09
+last_visited:: 2018-08
 
 A few weeks ago we spent about 8 nights in Finland. We managed to visit its capital, Helsinki, and some other cities in the north. What follows are some key information that may be of use to any traveller. We visited during summer (August 2018) so the weather was usually warm and pleasant.
 
@@ -71,3 +72,6 @@ Suomenlinna - Is a sea fortress about 15min away by boat from Helsinki. Its a ve
 Night Train:
 
 To travel between Helsinki and Rovaniemi we booked a room in the Night Train. The berth (room) has bunk beds (for 2 people) and a small sink. There are bathrooms and even showers available for common use, but with lock (key). It was an interesting experience, however it is not cheap at all. We spent about 500eu for rountrip. It was cheaper than paying for 2 nights + 2 roundtrip flights, but barely.
+
+
+![[Pasted image 20221226103746.png]]

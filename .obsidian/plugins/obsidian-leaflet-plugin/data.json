@@ -48,7 +48,7 @@
     },
     {
       "id": "leaflet-cities-visited",
-      "lastAccessed": 1670941800168,
+      "lastAccessed": 1672063113720,
       "markers": [
         {
           "id": "ID_08099918e8fa",
@@ -92,6 +92,40 @@
             175.29175758361816
           ],
           "link": "Wellington",
+          "layer": "real",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e85b594aab38",
+          "type": "default",
+          "loc": [
+            -50.341050939786655,
+            -72.2697937488556
+          ],
+          "link": "El Calafate",
+          "layer": "real",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3b2a99a8fa8a",
+          "type": "default",
+          "loc": [
+            -49.36619039988325,
+            -72.8682589530945
+          ],
+          "link": "El Chalten",
           "layer": "real",
           "mutable": true,
           "command": false,

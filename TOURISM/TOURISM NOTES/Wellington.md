@@ -3,6 +3,7 @@ title::Wellington
 country::[[New Zealand]]
 keywords:: Hiking, Western food, Small Town feel, Nature
 note_created::2022-12-09
+last_visited:: 2017-05
 
 Queen Charlotte Track was main event. The track starts out very difficult and gets easier progressively. If not used to hiking, expect a speed of 2-3km/h and take note it gets dark faster inside the forest. If sunset is at 7, it'll be dark by 6 inside the forest.
 

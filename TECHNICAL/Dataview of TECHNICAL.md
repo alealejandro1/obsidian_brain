@@ -5,6 +5,14 @@ from "TECHNICAL/GRAPH"
 sort ASC
 ```
 
+# Taxonomy
+```dataview
+table keywords as "Keywords"
+from "TECHNICAL/TAXONOMY"
+sort ASC
+```
+
+
 # Machine Learning
 ```dataview
 table keywords as "Keywords"

@@ -1,5 +1,5 @@
 article_type:: [[SQL]]
-summary:: Cursors are used in [[Stored Procedures]], [[SQL_triggers]] and [[SQL_functions]] to process a set of rows iteratively, where these rows are returned by a query. Cursors point at rows.
+summary:: Cursors are used in [[Stored Procedures]], [[SQL_triggers]] and [[Functions in SQL]] to process a set of rows iteratively, where these rows are returned by a query. Cursors point at rows.
 keywords:: Stored Procedure, Cursor, Read Only, Row by Row
 
 [[MySQL]] cursors are:

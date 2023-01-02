@@ -1,8 +1,9 @@
 #SummaryTable 
 ```dataview
-table title as "City", country as "Country", keywords as "Keywords"
+table country as "Country", last_visited as "Last Visited", keywords as "Keywords"
 from "TOURISM"
 where contains(note_type,"Tourism")
+sort last_visited ASC
 ```
 
 ```leaflet

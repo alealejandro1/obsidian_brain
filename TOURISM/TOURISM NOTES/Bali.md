@@ -3,6 +3,7 @@ title::Bali
 country:: [[Indonesia]]
 keywords:: Beach, Temple, Affordable, Relaxed, Rainforest, Hot
 note_created::2022-12-09
+last_visited:: 2022-04
 
 So this is my take on planning a trip to Bali. Trip was done in April 2022, so right after reopening from Covid. About 50-70% of Bali seemed operational. Masks were suggested in most places, but clearly only a must in few places only. 
 
@@ -121,3 +122,13 @@ Key takeaways for future visits:
 * **Bali is safe**. Tourists are the main source of income and they are appreciated. Avoid being too drunk outside and you will be fine. Use common sense. A thank you or please goes a long way.
 
 * **All hotels and villas have safes.** Make sure to check they are working properly the moment you check-in. Make sure at least some of your bags have TSA locks, so you can lock them while being away.
+
+
+Uluwatu Temple
+![[Pasted image 20221226102827.png]]
+
+Villa rented in Ubud: Cheap but totally far
+![[Pasted image 20221226102942.png]]
+
+Beautiful Hotel in Uluwatu
+![[Pasted image 20221226103434.png]]

@@ -8,18 +8,67 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5eb7a77c0d324261",
+            "id": "f13b7955d35917ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TECHNICAL/TAXONOMY/Coursera's Skills Taxonomy.md",
+                "file": "TTRPG/LOTR_sample/management/Characters.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd22402863a655d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FINANCE/Net Worth Calculation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8a3fffb30d8967e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CONTENT_CREATION/Two Birds one Stone.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5b6f8ef09f391e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CONTENT_CREATION/Dataview of content creation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d9792fc99ce9bc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CONTENT_CREATION/Dataview of content creation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TECHNICAL/TAXONOMY/Coursera's Skills Taxonomy.md",
+                "file": "CONTENT_CREATION/Dataview of content creation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TECHNICAL/TAXONOMY/Coursera's Skills Taxonomy.md",
+                "file": "CONTENT_CREATION/Dataview of content creation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TECHNICAL/TAXONOMY/Coursera's Skills Taxonomy.md"
+                "file": "CONTENT_CREATION/Dataview of content creation.md"
               }
             }
           },
@@ -153,17 +202,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5eb7a77c0d324261",
+  "active": "4d9792fc99ce9bc0",
   "lastOpenFiles": [
-    "TECHNICAL/TAXONOMY/Taxonomy.md",
-    "TECHNICAL/TAXONOMY/Coursera's Skills Taxonomy.md",
-    "TECHNICAL/TAXONOMY/Folksonomy.md",
-    "TECHNICAL/GRAPH/GraphDB crash-course.md",
-    "FINANCE/Finance Tables Repository.md",
-    "FINANCE/ENBRIDGE (ENB).md",
-    "FINANCE/EVGO.md",
-    "FINANCE/Dividends.md",
+    "CONTENT_CREATION/Obsidian to Neo4j.md",
+    "CONTENT_CREATION/Obsidian for TTRPG campaing and novel - 3 part.md",
+    "CONTENT_CREATION/Obsidian for Family Tree.md",
+    "CONTENT_CREATION/Dataview of content creation.md",
+    "CONTENT_CREATION/Two Birds one Stone.md",
     "FINANCE/Liquidity.md",
-    "FINANCE/Magic Triangle of Investing.md"
+    "FINANCE/Magic Triangle of Investing.md",
+    "FINANCE/Net Worth Calculation.md",
+    "TTRPG/LOTR_sample/management/Characters.md",
+    "TECHNICAL/Dataview of TECHNICAL.md"
   ]
 }

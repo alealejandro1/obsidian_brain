@@ -8,6 +8,9 @@ There are also risks linked to the decision to develop a corporate taxonomy, in 
 
 Given the risks described here, rather than aiming at absolute consistency, standardisation and tidiness, taxonomists should seek the consistency and standardisation necessary for effective sharing and retrieval of data and information (Lambe, NDb). Keeping in mind that flexibility is an important characteristic of taxonomies, the next section illustrates how different types of taxonomies are defined by different purposes.
 
+
+![[Pasted image 20221215080448.png]]
+
 # Kinds of taxonomies
 * Lists ~ basic but quickly goes crazy
 * Trees ~ resemble way of categorizing and sub categorizing
