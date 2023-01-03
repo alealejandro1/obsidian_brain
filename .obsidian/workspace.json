@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TECHNICAL/GRAPH/The Practitioner's Guide to Graph Data - notes.md",
+                "file": "TECHNICAL/GRAPH/GraphDB crash-course.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TECHNICAL/GRAPH/The Practitioner's Guide to Graph Data - notes.md",
+                "file": "TECHNICAL/GRAPH/GraphDB crash-course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TECHNICAL/GRAPH/The Practitioner's Guide to Graph Data - notes.md",
+                "file": "TECHNICAL/GRAPH/GraphDB crash-course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TECHNICAL/GRAPH/The Practitioner's Guide to Graph Data - notes.md"
+                "file": "TECHNICAL/GRAPH/GraphDB crash-course.md"
               }
             }
           },
