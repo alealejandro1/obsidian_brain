@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CONTENT_CREATION/Dataview of content creation.md",
+                "file": "TECHNICAL/GRAPH/GraphDB crash-course.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "933d95125cf8a15b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TECHNICAL/GRAPH/The Practitioner's Guide to Graph Data - notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CONTENT_CREATION/Dataview of content creation.md",
+                "file": "TECHNICAL/GRAPH/The Practitioner's Guide to Graph Data - notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CONTENT_CREATION/Dataview of content creation.md",
+                "file": "TECHNICAL/GRAPH/The Practitioner's Guide to Graph Data - notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CONTENT_CREATION/Dataview of content creation.md"
+                "file": "TECHNICAL/GRAPH/The Practitioner's Guide to Graph Data - notes.md"
               }
             }
           },
@@ -214,17 +226,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4d9792fc99ce9bc0",
+  "active": "933d95125cf8a15b",
   "lastOpenFiles": [
+    "TECHNICAL/GRAPH/Graph vs Relational DB in 5 minutes.md",
+    "TECHNICAL/GRAPH/GraphDB crash-course.md",
+    "TECHNICAL/GRAPH/The Practitioner's Guide to Graph Data - notes.md",
+    "CONTENT_CREATION/Dataview of content creation.md",
     "CONTENT_CREATION/Obsidian to Neo4j.md",
     "CONTENT_CREATION/Obsidian for TTRPG campaing and novel - 3 part.md",
     "CONTENT_CREATION/Obsidian for Family Tree.md",
-    "CONTENT_CREATION/Dataview of content creation.md",
     "CONTENT_CREATION/Two Birds one Stone.md",
     "FINANCE/Liquidity.md",
-    "FINANCE/Magic Triangle of Investing.md",
-    "FINANCE/Net Worth Calculation.md",
-    "TTRPG/LOTR_sample/management/Characters.md",
-    "TECHNICAL/Dataview of TECHNICAL.md"
+    "FINANCE/Magic Triangle of Investing.md"
   ]
 }
