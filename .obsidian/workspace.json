@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TECHNICAL/GRAPH/GraphDB crash-course.md",
+                "file": "CONTENT_CREATION/Obsidian for TTRPG campaing and novel - 3 part.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TECHNICAL/GRAPH/GraphDB crash-course.md",
+                "file": "CONTENT_CREATION/Obsidian for TTRPG campaing and novel - 3 part.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TECHNICAL/GRAPH/GraphDB crash-course.md",
+                "file": "CONTENT_CREATION/Obsidian for TTRPG campaing and novel - 3 part.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TECHNICAL/GRAPH/GraphDB crash-course.md"
+                "file": "CONTENT_CREATION/Obsidian for TTRPG campaing and novel - 3 part.md"
               }
             }
           },
@@ -228,15 +228,15 @@
   },
   "active": "933d95125cf8a15b",
   "lastOpenFiles": [
-    "TECHNICAL/GRAPH/Graph vs Relational DB in 5 minutes.md",
-    "TECHNICAL/GRAPH/GraphDB crash-course.md",
-    "TECHNICAL/GRAPH/The Practitioner's Guide to Graph Data - notes.md",
-    "CONTENT_CREATION/Dataview of content creation.md",
-    "CONTENT_CREATION/Obsidian to Neo4j.md",
-    "CONTENT_CREATION/Obsidian for TTRPG campaing and novel - 3 part.md",
     "CONTENT_CREATION/Obsidian for Family Tree.md",
-    "CONTENT_CREATION/Two Birds one Stone.md",
+    "CONTENT_CREATION/Dataview of content creation.md",
+    "FINANCE/Finance Tables Repository.md",
     "FINANCE/Liquidity.md",
-    "FINANCE/Magic Triangle of Investing.md"
+    "FINANCE/EVGO.md",
+    "FINANCE/ENBRIDGE (ENB).md",
+    "TECHNICAL/GRAPH/GraphDB crash-course.md",
+    "TECHNICAL/GRAPH/Graph vs Relational DB in 5 minutes.md",
+    "TECHNICAL/GRAPH/The Practitioner's Guide to Graph Data - notes.md",
+    "CONTENT_CREATION/Obsidian to Neo4j.md"
   ]
 }
