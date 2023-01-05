@@ -78,9 +78,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e7145b1e7bec0f42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TECHNICAL/OBSIDIAN/Templates/TTRPG_asset Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "41bc695557f81cb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TECHNICAL/OBSIDIAN/Templates/Family Tree Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -146,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CONTENT_CREATION/Obsidian for TTRPG campaing and novel - 3 part.md",
+                "file": "TECHNICAL/OBSIDIAN/Templates/Family Tree Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CONTENT_CREATION/Obsidian for TTRPG campaing and novel - 3 part.md",
+                "file": "TECHNICAL/OBSIDIAN/Templates/Family Tree Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CONTENT_CREATION/Obsidian for TTRPG campaing and novel - 3 part.md"
+                "file": "TECHNICAL/OBSIDIAN/Templates/Family Tree Template.md"
               }
             }
           },
@@ -226,17 +250,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "933d95125cf8a15b",
+  "active": "41bc695557f81cb2",
   "lastOpenFiles": [
+    "TECHNICAL/OBSIDIAN/Templates/Article Template.md",
+    "TECHNICAL/OBSIDIAN/Templates/Family Tree Template.md",
+    "TECHNICAL/OBSIDIAN/Templates/TTRPG_asset Template.md",
+    "TECHNICAL/OBSIDIAN/Templates/SQL template.md",
+    "TECHNICAL/OBSIDIAN/Templates/Content Template.md",
+    "FAMILY_TREE/Action Games.md",
+    "CONTENT_CREATION/Obsidian for TTRPG campaing and novel - 3 part.md",
     "CONTENT_CREATION/Obsidian for Family Tree.md",
     "CONTENT_CREATION/Dataview of content creation.md",
-    "FINANCE/Finance Tables Repository.md",
-    "FINANCE/Liquidity.md",
-    "FINANCE/EVGO.md",
-    "FINANCE/ENBRIDGE (ENB).md",
-    "TECHNICAL/GRAPH/GraphDB crash-course.md",
-    "TECHNICAL/GRAPH/Graph vs Relational DB in 5 minutes.md",
-    "TECHNICAL/GRAPH/The Practitioner's Guide to Graph Data - notes.md",
-    "CONTENT_CREATION/Obsidian to Neo4j.md"
+    "FINANCE/Finance Tables Repository.md"
   ]
 }
